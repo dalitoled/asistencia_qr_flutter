@@ -1,0 +1,143 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // Función para verificar si el usuario está autenticado
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+    
+    // Función para verificar si el usuario es administrador
+    function isAdmin() {
+      let userDoc = get(/databases/$(database)/documents/usuarios/$(request.auth.uid));
+      // Si no existe documento, se asume admin por defecto
+      return userDoc == null || userDoc.data == null || userDoc.data.rol == 'admin';
+    }
+    
+    // Función para verificar si el usuario es operador
+    function isOperador() {
+      let userDoc = get(/databases/$(database)/documents/usuarios/$(request.auth.uid));
+      return userDoc != null && userDoc.data != null && userDoc.data.rol == 'operador';
+    }
+    
+    // Función para verificar si el usuario es propietario del documento
+    function isOwner(userId) {
+      return request.auth.uid == userId;
+    }
+    
+    // Función para validar que los datos requeridos existan
+    function hasRequiredFields(fields) {
+      return request.resource.data.keys().hasAll(fields);
+    }
+    
+    // ===== COLECCIÓN: usuarios =====
+    match /usuarios/{userId} {
+      // El usuario puede leer su propio perfil
+      allow read: if isAuthenticated() && (isOwner(userId) || isAdmin());
+      
+      // Usuarios pueden crear su propio documento; admins pueden crear cualquier usuario
+      allow create: if isAuthenticated() && (isAdmin() || isOwner(userId))
+        && hasRequiredFields(['email', 'nombre', 'rol']);
+      
+      // Solo el propio usuario o admins pueden actualizar
+      allow update: if isAuthenticated() && (isOwner(userId) || isAdmin());
+      
+      // Solo admins pueden eliminar
+      allow delete: if isAuthenticated() && isAdmin();
+    }
+    
+    // ===== COLECCIÓN: socios =====
+    match /socios/{socioId} {
+      // Lectura: usuarios autenticados pueden ver socios activos
+      allow read: if isAuthenticated();
+      
+      // Crear: solo admins
+      allow create: if isAuthenticated() && isAdmin()
+        && hasRequiredFields(['nombreCompleto', 'ci', 'fechaRegistro'])
+        && request.resource.data.nombreCompleto is string
+        && request.resource.data.ci is string
+        && request.resource.data.estado is string;
+      
+      // Actualizar: solo admins
+      allow update: if isAuthenticated() && isAdmin()
+        && request.resource.data.keys().hasAll(['nombreCompleto', 'ci', 'estado']);
+      
+      // Eliminar (soft delete): solo admins
+      allow delete: if isAuthenticated() && isAdmin();
+    }
+    
+    // ===== COLECCIÓN: asistencias =====
+    match /asistencias/{asistenciaId} {
+      // Lectura: usuarios autenticados
+      allow read: if isAuthenticated();
+      
+      // Crear: admins y operadores
+      allow create: if isAuthenticated() && (isAdmin() || isOperador())
+        && hasRequiredFields(['socioId', 'socioNombre', 'tipo', 'fecha', 'operadorId'])
+        && request.resource.data.tipo in ['asistencia', 'retraso', 'falta'];
+      
+      // Actualizar: solo admins
+      allow update: if isAuthenticated() && isAdmin();
+      
+      // Eliminar: solo admins
+      allow delete: if isAuthenticated() && isAdmin();
+    }
+    
+    // ===== COLECCIÓN: multas =====
+    match /multas/{multaId} {
+      // Lectura: usuarios autenticados
+      allow read: if isAuthenticated();
+      
+      // Crear: admins
+      allow create: if isAuthenticated() && isAdmin()
+        && hasRequiredFields(['socioId', 'socioNombre', 'tipo', 'monto', 'estado', 'fecha'])
+        && request.resource.data.tipo in ['retraso', 'falta']
+        && request.resource.data.estado in ['pendiente', 'pagado']
+        && request.resource.data.monto is number
+        && request.resource.data.monto >= 0;
+      
+      // Actualizar: solo admins
+      allow update: if isAuthenticated() && isAdmin()
+        && request.resource.data.estado in ['pendiente', 'pagado'];
+      
+      // Eliminar: solo admins
+      allow delete: if isAuthenticated() && isAdmin();
+    }
+    
+    // ===== COLECCIÓN: pagos =====
+    match /pagos/{pagoId} {
+      // Lectura: usuarios autenticados
+      allow read: if isAuthenticated();
+      
+      // Crear: admins
+      allow create: if isAuthenticated() && isAdmin()
+        && hasRequiredFields(['socioId', 'socioNombre', 'monto', 'fecha'])
+        && request.resource.data.monto is number
+        && request.resource.data.monto > 0;
+      
+      // Actualizar: no permitido
+      allow update: if false;
+      
+      // Eliminar: solo admins (con límite de tiempo)
+      allow delete: if isAuthenticated() && isAdmin()
+        && request.time - resource.data.fecha < duration.value(1, 'd');
+    }
+    
+    // ===== COLECCIÓN: config =====
+    match /config/{configId} {
+      // Lectura: usuarios autenticados
+      allow read: if isAuthenticated();
+      
+      // Solo admins pueden modificar configuración
+      allow write: if isAuthenticated() && isAdmin()
+        && request.resource.data.keys().hasAll(['horaLimite', 'multaRetraso', 'multaFalta', 'nombreInstitucion']);
+    }
+    
+    // ===== REGLAS POR DEFECTO =====
+    // Denegar todo lo no especificado explícitamente
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

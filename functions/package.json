@@ -1,0 +1,17 @@
+{
+  "name": "asistencia-agua-functions",
+  "version": "1.0.0",
+  "description": "Firebase Functions para el Sistema de Control de Asistencia",
+  "main": "index.js",
+  "scripts": {
+    "serve": "firebase emulators:start --only functions",
+    "deploy": "firebase deploy --only functions"
+  },
+  "engines": {
+    "node": "18"
+  },
+  "dependencies": {
+    "firebase-admin": "^11.11.0",
+    "firebase-functions": "^4.5.0"
+  }
+}

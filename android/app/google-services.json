@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702104634197",
+    "project_id": "asistencia-agua-tolata-chico",
+    "storage_bucket": "asistencia-agua-tolata-chico.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702104634197:android:2a7c1746375bbfd62fa5dc",
+        "android_client_info": {
+          "package_name": "com.example.asistencia_agua_potable"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaSnldVIL-MaDCl2eQJlMGg3yEW-J3tt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

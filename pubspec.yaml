@@ -1,0 +1,76 @@
+name: asistencia_agua_potable
+description: Sistema de Control de Asistencia - Asociación de Agua Potable Tolata Chico
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # Firebase
+  firebase_core: ^4.0.0
+  firebase_auth: ^6.5.0
+  cloud_firestore: ^6.0.0
+  firebase_storage: ^13.0.0
+  firebase_messaging: ^16.0.0
+  flutter_local_notifications: ^17.0.0
+
+  # State Management
+  flutter_riverpod: ^2.4.9
+  riverpod_annotation: ^2.3.3
+
+  # Navigation
+  go_router: ^13.1.0
+
+  # QR
+  qr_flutter: ^4.1.0
+  mobile_scanner: ^5.0.0
+
+  # Storage
+  flutter_secure_storage: ^9.0.0
+  shared_preferences: ^2.2.2
+
+  # Utils
+  intl: ^0.20.2
+  uuid: ^4.2.2
+  crypto: ^3.0.3
+
+  # Charts
+  fl_chart: ^0.66.2
+
+  # PDF & Excel
+  pdf: ^3.10.8
+  printing: ^5.12.0
+  syncfusion_flutter_xlsio: ^29.2.11
+
+  # Network
+  dio: ^5.4.0
+  connectivity_plus: ^5.0.2
+
+  # UI
+  cupertino_icons: ^1.0.6
+  shimmer: ^3.0.0
+  cached_network_image: ^3.3.1
+  image_picker: ^1.0.7
+  path_provider: ^2.1.2
+  share_plus: ^12.0.2
+  url_launcher: ^6.2.4
+  permission_handler: ^11.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+  riverpod_generator: ^2.3.9
+  build_runner: ^2.4.8
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/

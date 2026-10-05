@@ -1,0 +1,47 @@
+rules_version = '2';
+
+service firebase.storage {
+  match /b/{bucket}/o {
+    
+    // Función para verificar si el usuario está autenticado
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+    
+    // Función para verificar si el usuario es administrador
+    function isAdmin() {
+      return request.auth.token.role == 'admin';
+    }
+    
+    // ===== IMÁGENES DE SOCIOS =====
+    match /socios/{socioId}/{fileName} {
+      allow read: if isAuthenticated();
+      allow write: if isAuthenticated() && isAdmin()
+        && request.resource.contentType.matches('image/.*')
+        && request.resource.size < 5 * 1024 * 1024; // Máximo 5MB
+      allow delete: if isAuthenticated() && isAdmin();
+    }
+    
+    // ===== DOCUMENTOS EXPORTADOS =====
+    match /reportes/{fileName} {
+      allow read: if isAuthenticated();
+      allow write: if isAuthenticated() && isAdmin()
+        && request.resource.contentType.matches('application/(pdf|spreadsheet|ms-excel)')
+        && request.resource.size < 50 * 1024 * 1024; // Máximo 50MB
+    }
+    
+    // ===== LOGOS INSTITUCIONALES =====
+    match /logos/{fileName} {
+      allow read: if true;
+      allow write: if isAuthenticated() && isAdmin()
+        && request.resource.contentType.matches('image/.*')
+        && request.resource.size < 2 * 1024 * 1024; // Máximo 2MB
+    }
+    
+    // ===== REGLAS POR DEFECTO =====
+    match /{allPaths=**} {
+      allow read: if isAuthenticated();
+      allow write: if false;
+    }
+  }
+}

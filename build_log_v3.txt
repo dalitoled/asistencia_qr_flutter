@@ -1,0 +1,1494 @@
+[ +299 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[        ] executing: [C:\Flutter\flutter/] git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[ +154 ms] Exit code 0 from: git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[        ] 2026-03-03 16:03:22 -0800
+[  +17 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[   +2 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[ +130 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[   +3 ms] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[ +105 ms] Skipping pub get: version match.
+[ +229 ms] Found plugin url_launcher at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher-6.3.2\
+[   +6 ms] Found plugin url_launcher_windows at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_windows-3.1.5\
+[   +5 ms] Found plugin url_launcher_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_web-2.4.3\
+[   +3 ms] Found plugin url_launcher_macos at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_macos-3.2.5\
+[   +2 ms] Found plugin url_launcher_linux at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_linux-3.2.2\
+[   +2 ms] Found plugin url_launcher_ios at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_ios-6.4.1\
+[   +2 ms] Found plugin url_launcher_android at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.29\
+[  +17 ms] Found plugin shared_preferences at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.5\
+[   +1 ms] Found plugin shared_preferences_windows at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +2 ms] Found plugin path_provider_windows at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[   +5 ms] Found plugin shared_preferences_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[   +2 ms] Found plugin shared_preferences_linux at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +1 ms] Found plugin path_provider_linux at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.1\
+[   +3 ms] Found plugin shared_preferences_foundation at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.6\
+[   +2 ms] Found plugin shared_preferences_android at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.23\
+[   +3 ms] Found plugin share_plus at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\share_plus-7.2.2\
+[  +11 ms] Found plugin path_provider at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.5\
+[   +2 ms] Found plugin path_provider_foundation at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.6.0\
+[  +16 ms] Found plugin path_provider_android at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.3.1\
+[   +2 ms] Found plugin jni_flutter at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\jni_flutter-1.0.1\
+[   +2 ms] Found plugin jni at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\
+[   +6 ms] Found plugin printing at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\printing-5.14.3\
+[   +8 ms] Found plugin permission_handler at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler-11.4.0\
+[   +1 ms] Found plugin permission_handler_windows at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_windows-0.2.1\
+[   +3 ms] Found plugin permission_handler_html at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_html-0.1.3+5\
+[   +1 ms] Found plugin permission_handler_apple at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_apple-9.4.7\
+[   +1 ms] Found plugin permission_handler_android at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\
+[   +1 ms] Found plugin mobile_scanner at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\mobile_scanner-5.2.3\
+[   +2 ms] Found plugin image_picker at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-1.2.2\
+[   +2 ms] Found plugin image_picker_windows at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_windows-0.2.2\
+[   +3 ms] Found plugin file_selector_windows at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_windows-0.9.3+5\
+[   +3 ms] Found plugin image_picker_macos at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_macos-0.2.2+1\
+[   +1 ms] Found plugin file_selector_macos at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_macos-0.9.5\
+[   +2 ms] Found plugin image_picker_linux at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_linux-0.2.2\
+[   +1 ms] Found plugin file_selector_linux at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_linux-0.9.4\
+[   +1 ms] Found plugin image_picker_ios at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_ios-0.8.13+6\
+[   +1 ms] Found plugin image_picker_for_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_for_web-3.1.1\
+[   +1 ms] Found plugin image_picker_android at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.13+17\
+[   +1 ms] Found plugin flutter_plugin_android_lifecycle at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.34\
+[   +3 ms] Found plugin flutter_secure_storage at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-9.2.4\
+[   +1 ms] Found plugin flutter_secure_storage_windows at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage_windows-3.1.2\
+[   +2 ms] Found plugin flutter_secure_storage_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage_web-1.2.1\
+[   +1 ms] Found plugin flutter_secure_storage_macos at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage_macos-3.1.3\
+[   +1 ms] Found plugin flutter_secure_storage_linux at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage_linux-1.2.3\
+[   +3 ms] Found plugin flutter_local_notifications at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-17.2.4\
+[   +3 ms] Found plugin flutter_local_notifications_linux at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_linux-4.0.1\
+[   +6 ms] Found plugin firebase_storage at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-11.6.5\
+[   +2 ms] Found plugin firebase_storage_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage_web-3.6.22\
+[   +2 ms] Found plugin firebase_core at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.32.0\
+[   +1 ms] Found plugin firebase_core_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core_web-2.24.0\
+[   +5 ms] Found plugin firebase_messaging at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-14.7.10\
+[   +1 ms] Found plugin firebase_messaging_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging_web-3.5.18\
+[   +4 ms] Found plugin firebase_auth at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-4.16.0\
+[   +1 ms] Found plugin firebase_auth_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth_web-5.8.13\
+[   +5 ms] Found plugin connectivity_plus at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\connectivity_plus-5.0.2\
+[   +3 ms] Found plugin cloud_firestore at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-4.17.5\
+[   +1 ms] Found plugin cloud_firestore_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore_web-3.12.5\
+[   +4 ms] Found plugin sqflite at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.4.2+1\
+[   +3 ms] Found plugin sqflite_darwin at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_darwin-2.4.2\
+[   +1 ms] Found plugin sqflite_android at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.2+3\
+[  +81 ms] Found plugin url_launcher at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher-6.3.2\
+[   +1 ms] Found plugin url_launcher_windows at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_windows-3.1.5\
+[   +2 ms] Found plugin url_launcher_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_web-2.4.3\
+[   +3 ms] Found plugin url_launcher_macos at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_macos-3.2.5\
+[   +1 ms] Found plugin url_launcher_linux at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_linux-3.2.2\
+[   +1 ms] Found plugin url_launcher_ios at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_ios-6.4.1\
+[   +1 ms] Found plugin url_launcher_android at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.29\
+[   +7 ms] Found plugin shared_preferences at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.5\
+[        ] Found plugin shared_preferences_windows at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +1 ms] Found plugin path_provider_windows at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[   +2 ms] Found plugin shared_preferences_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[        ] Found plugin shared_preferences_linux at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[        ] Found plugin path_provider_linux at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.1\
+[   +1 ms] Found plugin shared_preferences_foundation at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.6\
+[   +1 ms] Found plugin shared_preferences_android at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.23\
+[   +1 ms] Found plugin share_plus at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\share_plus-7.2.2\
+[   +3 ms] Found plugin path_provider at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.5\
+[   +1 ms] Found plugin path_provider_foundation at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.6.0\
+[   +4 ms] Found plugin path_provider_android at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.3.1\
+[        ] Found plugin jni_flutter at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\jni_flutter-1.0.1\
+[        ] Found plugin jni at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\
+[   +2 ms] Found plugin printing at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\printing-5.14.3\
+[   +3 ms] Found plugin permission_handler at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler-11.4.0\
+[        ] Found plugin permission_handler_windows at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_windows-0.2.1\
+[   +1 ms] Found plugin permission_handler_html at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_html-0.1.3+5\
+[        ] Found plugin permission_handler_apple at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_apple-9.4.7\
+[        ] Found plugin permission_handler_android at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\
+[        ] Found plugin mobile_scanner at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\mobile_scanner-5.2.3\
+[   +1 ms] Found plugin image_picker at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-1.2.2\
+[   +1 ms] Found plugin image_picker_windows at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_windows-0.2.2\
+[   +1 ms] Found plugin file_selector_windows at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_windows-0.9.3+5\
+[   +1 ms] Found plugin image_picker_macos at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_macos-0.2.2+1\
+[        ] Found plugin file_selector_macos at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_macos-0.9.5\
+[        ] Found plugin image_picker_linux at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_linux-0.2.2\
+[        ] Found plugin file_selector_linux at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_linux-0.9.4\
+[        ] Found plugin image_picker_ios at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_ios-0.8.13+6\
+[        ] Found plugin image_picker_for_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_for_web-3.1.1\
+[        ] Found plugin image_picker_android at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.13+17\
+[        ] Found plugin flutter_plugin_android_lifecycle at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.34\
+[   +1 ms] Found plugin flutter_secure_storage at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-9.2.4\
+[        ] Found plugin flutter_secure_storage_windows at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage_windows-3.1.2\
+[   +1 ms] Found plugin flutter_secure_storage_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage_web-1.2.1\
+[        ] Found plugin flutter_secure_storage_macos at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage_macos-3.1.3\
+[        ] Found plugin flutter_secure_storage_linux at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage_linux-1.2.3\
+[   +1 ms] Found plugin flutter_local_notifications at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-17.2.4\
+[   +1 ms] Found plugin flutter_local_notifications_linux at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications_linux-4.0.1\
+[   +2 ms] Found plugin firebase_storage at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-11.6.5\
+[        ] Found plugin firebase_storage_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage_web-3.6.22\
+[   +1 ms] Found plugin firebase_core at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.32.0\
+[        ] Found plugin firebase_core_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core_web-2.24.0\
+[   +1 ms] Found plugin firebase_messaging at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-14.7.10\
+[        ] Found plugin firebase_messaging_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging_web-3.5.18\
+[   +1 ms] Found plugin firebase_auth at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-4.16.0\
+[        ] Found plugin firebase_auth_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth_web-5.8.13\
+[   +2 ms] Found plugin connectivity_plus at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\connectivity_plus-5.0.2\
+[   +1 ms] Found plugin cloud_firestore at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-4.17.5\
+[        ] Found plugin cloud_firestore_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore_web-3.12.5\
+[   +2 ms] Found plugin sqflite at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.4.2+1\
+[   +2 ms] Found plugin sqflite_darwin at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_darwin-2.4.2\
+[   +1 ms] Found plugin sqflite_android at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite_android-2.4.2+3\
+[  +84 ms] Generating D:\Agua Potable\AppAsistencia\android\app\src\main\java\io\flutter\plugins\GeneratedPluginRegistrant.java
+[  +36 ms] Skipping generating GeneratedPluginRegistrant.java because it is up-to-date.
+[  +76 ms] Android Studio version could not be detected, skipping Gradle-Java version compatibility check.
+[  +31 ms] CMake project not found, skipping support Android 15 16k page size migration.
+[   +5 ms] Using gradle from D:\Agua Potable\AppAsistencia\android\gradlew.bat.
+[  +13 ms] LocalFile: 'D:\Agua Potable\AppAsistencia\android\build.gradle' doesn't provide an AGP version. Checking settings.
+[   +2 ms] LocalFile: 'D:\Agua Potable\AppAsistencia\android\settings.gradle' provides AGP version: 8.2.1
+[  +51 ms] Running Gradle task 'assembleDebug'...
+[   +4 ms] executing: [D:\Agua Potable\AppAsistencia\android/] D:\Agua Potable\AppAsistencia\android\gradlew.bat --full-stacktrace --info -Pverbose=true -Ptarget-platform=android-arm,android-arm64,android-x64 -Ptarget=lib\main.dart -Pbase-application-name=android.app.Application -Pdart-defines=RkxVVFRFUl9WRVJTSU9OPTMuNDEuNA==,RkxVVFRFUl9DSEFOTkVMPXN0YWJsZQ==,RkxVVFRFUl9HSVRfVVJMPWh0dHBzOi8vZ2l0aHViLmNvbS9mbHV0dGVyL2ZsdXR0ZXIuZ2l0,RkxVVFRFUl9GUkFNRVdPUktfUkVWSVNJT049ZmYzN2JlZjYwMw==,RkxVVFRFUl9FTkdJTkVfUkVWSVNJT049ZTRiOGRjYTNmMQ==,RkxVVFRFUl9EQVJUX1ZFUlNJT049My4xMS4x -Pdart-obfuscation=false -Ptrack-widget-creation=true -Ptree-shake-icons=false assembleDebug
+[+1013 ms] Initialized native services in: C:\Users\Admin\.gradle\native
+[   +1 ms] Initialized jansi services in: C:\Users\Admin\.gradle\native
+[ +621 ms] The client will now receive all logging from the daemon (pid: 14704). The daemon log file: C:\Users\Admin\.gradle\daemon\8.14\daemon-14704.out.log
+[        ] Starting 17th build in daemon [uptime: 1 hrs 24 mins 54.951 secs, performance: 99%, GC rate: 0.00/s, heap usage: 1% of 4 GiB]
+[ +310 ms] Using 16 worker leases.
+[  +92 ms] Invalidating in-memory cache of D:\Agua Potable\AppAsistencia\android\.gradle\8.14\fileHashes\fileHashes.bin
+[        ] Invalidating in-memory cache of D:\Agua Potable\AppAsistencia\android\.gradle\8.14\fileHashes\resourceHashesCache.bin
+[ +109 ms] Now considering [D:\Agua Potable\AppAsistencia\android, C:\Flutter\flutter\packages\flutter_tools\gradle] as hierarchies to watch
+[        ] Watching the file system is configured to be enabled if available
+[        ] File system watching is active
+[  +93 ms] Starting Build
+[ +202 ms] Now considering [C:\Flutter\flutter\packages\flutter_tools\gradle, D:\Agua Potable\AppAsistencia\android] as hierarchies to watch
+[        ] Invalidating in-memory cache of C:\Flutter\flutter\packages\flutter_tools\gradle\.gradle\buildOutputCleanup\outputFiles.bin
+[ +891 ms] > Configure project :gradle
+[        ] Evaluating project ':gradle' using build file 'C:\Flutter\flutter\packages\flutter_tools\gradle\build.gradle.kts'.
+[        ] Resolved plugin [id: 'org.gradle.java-gradle-plugin']
+[        ] Resolved plugin [id: 'org.gradle.groovy']
+[        ] Resolved plugin [id: 'org.gradle.kotlin.kotlin-dsl', version: '5.2.0']
+[        ] Resolved plugin [id: 'org.jetbrains.kotlin.jvm', version: '1.9.20']
+[        ] Invalidating in-memory cache of C:\Users\Admin\.gradle\caches\journal-1\file-access.bin
+[        ] Invalidating in-memory cache of C:\Users\Admin\.gradle\caches\8.14\fileHashes\fileHashes.bin
+[        ] Invalidating in-memory cache of C:\Users\Admin\.gradle\caches\8.14\fileHashes\resourceHashesCache.bin
+[        ] Using Kotlin Gradle Plugin gradle85 variant
+[        ] kotlin scripting plugin: created the scripting discovery configuration: kotlinScriptDef
+[        ] kotlin scripting plugin: created the scripting discovery configuration: testKotlinScriptDef
+[        ] file or directory 'C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\java', not found
+[        ] Resolved plugin [id: 'dev.flutter.flutter-gradle-plugin', version: '1.0.0', apply: false]
+[ +103 ms] Resolved plugin [id: 'com.android.application', version: '8.2.1', apply: false]
+[        ] Resolved plugin [id: 'org.jetbrains.kotlin.android', version: '1.8.22', apply: false]
+[        ] Resolved plugin [id: 'com.google.gms.google-services', version: '4.4.0', apply: false]
+[ +297 ms] Resolve mutations for :gradle:checkKotlinGradlePluginConfigurationErrors (Thread[Execution worker,5,main]) started.
+[        ] :gradle:checkKotlinGradlePluginConfigurationErrors (Thread[Execution worker,5,main]) started.
+[        ] Invalidating in-memory cache of C:\Flutter\flutter\packages\flutter_tools\gradle\.gradle\8.14\executionHistory\executionHistory.bin
+[        ] > Task :gradle:checkKotlinGradlePluginConfigurationErrors SKIPPED
+[        ] Skipping task ':gradle:checkKotlinGradlePluginConfigurationErrors' as task onlyIf 'errorDiagnostics are present' is false.
+[        ] Resolve mutations for :gradle:compileKotlin (Thread[Execution worker,5,main]) started.
+[        ] :gradle:compileKotlin (Thread[Execution worker,5,main]) started.
+[ +695 ms] Resolve mutations for :gradle:pluginDescriptors (Thread[Execution worker Thread 10,5,main]) started.
+[        ] :gradle:pluginDescriptors (Thread[Execution worker Thread 8,5,main]) started.
+[        ] > Task :gradle:pluginDescriptors UP-TO-DATE
+[        ] Caching disabled for task ':gradle:pluginDescriptors' because:
+[        ]   Build cache is disabled
+[        ]   Not worth caching
+[        ] Skipping task ':gradle:pluginDescriptors' as it is up-to-date.
+[        ] Resolve mutations for :gradle:processResources (Thread[Execution worker Thread 8,5,main]) started.
+[        ] :gradle:processResources (Thread[Execution worker Thread 8,5,main]) started.
+[        ] > Task :gradle:processResources
+[        ] Caching disabled for task ':gradle:processResources' because:
+[        ]   Build cache is disabled
+[        ]   Not worth caching
+[        ] Task ':gradle:processResources' is not up-to-date because:
+[        ]   Value of input property 'rootSpec$1.filteringCharset' has changed for task ':gradle:processResources'
+[        ]   Value of input property 'rootSpec$2.filteringCharset' has changed for task ':gradle:processResources'
+[        ] file or directory 'C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\resources', not found
+[+1299 ms] > Task :gradle:compileKotlin
+[        ] Caching disabled for task ':gradle:compileKotlin' because:
+[        ]   Build cache is disabled
+[        ] Task ':gradle:compileKotlin' is not up-to-date because:
+[        ]   Value of input property 'kotlinJavaToolchainProvider.javaVersion' has changed for task ':gradle:compileKotlin'
+[        ] The input changes require a full rebuild for incremental task ':gradle:compileKotlin'.
+[        ] file or directory 'C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\java', not found
+[        ] file or directory 'C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\java', not found
+[        ] file or directory 'C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\java', not found
+[        ] file or directory 'C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\java', not found
+[        ] Kotlin source files: C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\kotlin\AppLinkSettings.kt, C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\kotlin\BaseApplicationNameHandler.kt, C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\kotlin\Deeplink.kt, C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\kotlin\DependencyVersionChecker.kt, C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\kotlin\FlutterAppPluginLoaderPlugin.kt, C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\kotlin\FlutterExtension.kt, C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\kotlin\FlutterPlugin.kt, C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\kotlin\FlutterPluginConstants.kt, C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\kotlin\FlutterPluginUtils.kt, C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\kotlin\IntentFilterCheck.kt, C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\kotlin\NativePluginLoaderReflectionBridge.kt, C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\kotlin\plugins\PluginHandler.kt, C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\kotlin\tasks\BaseFlutterTask.kt, C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\kotlin\tasks\BaseFlutterTaskHelper.kt, C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\kotlin\tasks\DeepLinkJsonFromManifestTask.kt, C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\kotlin\tasks\DeepLinkJsonFromManifestTaskHelper.kt, C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\kotlin\tasks\FlutterTask.kt, C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\kotlin\tasks\FlutterTaskHelper.kt, C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\kotlin\VersionFetcher.kt, C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\kotlin\VersionUtils.kt
+[        ] Java source files: 
+[        ] Script source files: 
+[        ] Script file extensions: 
+[        ] Using Kotlin/JVM incremental compilation
+[        ] [KOTLIN] Kotlin compilation 'jdkHome' argument: C:\Program Files\Eclipse Adoptium\jdk-17.0.18.8-hotspot
+[        ] Options for KOTLIN DAEMON: IncrementalCompilationOptions(super=CompilationOptions(compilerMode=INCREMENTAL_COMPILER, targetPlatform=JVM, reportCategories=[0, 3], reportSeverity=2, requestedCompilationResults=[0], kotlinScriptExtensions=[]), areFileChangesKnown=false, modifiedFiles=null, deletedFiles=null, classpathChanges=NotAvailableForNonIncrementalRun, workingDir=C:\Flutter\flutter\packages\flutter_tools\gradle\build\kotlin\compileKotlin\cacheable, multiModuleICSettings=MultiModuleICSettings(buildHistoryFile=C:\Flutter\flutter\packages\flutter_tools\gradle\build\kotlin\compileKotlin\local-state\build-history.bin, useModuleDetection=false), usePreciseJavaTracking=true, icFeatures=IncrementalCompilationFeatures(withAbiSnapshot=false, preciseCompilationResultsBackup=true, keepIncrementalCompilationCachesInMemory=true, enableUnsafeIncrementalCompilationForMultiplatform=false), outputFiles=[C:\Flutter\flutter\packages\flutter_tools\gradle\build\classes\kotlin\main, C:\Flutter\flutter\packages\flutter_tools\gradle\build\kotlin\compileKotlin\cacheable, C:\Flutter\flutter\packages\flutter_tools\gradle\build\kotlin\compileKotlin\local-state])
+[+5399 ms] w: file:///C:/Flutter/flutter/packages/flutter_tools/gradle/src/main/kotlin/FlutterPlugin.kt:11:37 'ApkVariant' is deprecated. Deprecated in Java
+[        ] w: file:///C:/Flutter/flutter/packages/flutter_tools/gradle/src/main/kotlin/FlutterPlugin.kt:614:69 'ApkVariant' is deprecated. Deprecated in Java
+[        ] w: file:///C:/Flutter/flutter/packages/flutter_tools/gradle/src/main/kotlin/plugins/PluginHandler.kt:186:64 Unchecked cast: NamedDomainObjectContainer<out BuildType> to NamedDomainObjectContainer<BuildType>
+[        ] w: file:///C:/Flutter/flutter/packages/flutter_tools/gradle/src/main/kotlin/plugins/PluginHandler.kt:187:69 Unchecked cast: NamedDomainObjectContainer<out BuildType> to NamedDomainObjectContainer<BuildType>
+[        ] Finished executing kotlin compiler using DAEMON strategy
+[ +296 ms] Resolve mutations for :gradle:compileJava (Thread[Execution worker,5,main]) started.
+[  +95 ms] :gradle:compileJava (Thread[Execution worker,5,main]) started.
+[ +109 ms] > Task :gradle:compileJava NO-SOURCE
+[        ] Skipping task ':gradle:compileJava' as it has no source files and no previous output files.
+[        ] Resolve mutations for :gradle:compileGroovy (Thread[Execution worker,5,main]) started.
+[  +93 ms] :gradle:compileGroovy (Thread[Execution worker,5,main]) started.
+[        ] > Task :gradle:compileGroovy NO-SOURCE
+[        ] Skipping task ':gradle:compileGroovy' as it has no source files and no previous output files.
+[        ] Resolve mutations for :gradle:classes (Thread[Execution worker,5,main]) started.
+[        ] :gradle:classes (Thread[Execution worker,5,main]) started.
+[        ] > Task :gradle:classes
+[        ] Skipping task ':gradle:classes' as it has no actions.
+[        ] Resolve mutations for :gradle:jar (Thread[included builds,5,main]) started.
+[  +93 ms] :gradle:jar (Thread[included builds,5,main]) started.
+[+1811 ms] > Task :gradle:jar
+[        ] Caching disabled for task ':gradle:jar' because:
+[        ]   Build cache is disabled
+[        ]   Not worth caching
+[        ] Task ':gradle:jar' is not up-to-date because:
+[        ]   Value of input property 'rootSpec$1.filteringCharset' has changed for task ':gradle:jar'
+[        ]   Value of input property 'rootSpec$2$1.filteringCharset' has changed for task ':gradle:jar'
+[        ]   Value of input property 'rootSpec$2.filteringCharset' has changed for task ':gradle:jar'
+[        ] file or directory 'C:\Flutter\flutter\packages\flutter_tools\gradle\build\classes\java\main', not found
+[        ] file or directory 'C:\Flutter\flutter\packages\flutter_tools\gradle\build\classes\groovy\main', not found
+[+1200 ms] Settings evaluated using settings file 'D:\Agua Potable\AppAsistencia\android\settings.gradle'.
+[  +93 ms] Projects loaded. Root project using build file 'D:\Agua Potable\AppAsistencia\android\build.gradle'.
+[        ] Included projects: [root project 'android', project ':app']
+[+1794 ms] > Configure project :app
+[        ] Evaluating project ':app' using build file 'D:\Agua Potable\AppAsistencia\android\app\build.gradle'.
+[        ] Resolved plugin [id: 'com.android.application']
+[        ] Resolved plugin [id: 'org.jetbrains.kotlin.android']
+[        ] Resolved plugin [id: 'dev.flutter.flutter-gradle-plugin']
+[        ] Resolved plugin [id: 'com.google.gms.google-services']
+[        ] Using default execution profile
+[        ] Using Kotlin Gradle Plugin gradle76 variant
+[   +2 ms] Warning: Flutter support for your project's Android Gradle Plugin version (Android Gradle Plugin version 8.2.1) will soon be dropped. Please upgrade your Android Gradle Plugin version to a version of at least Android Gradle Plugin version 8.6.0 soon.
+[   +5 ms] Alternatively, use the flag "--android-skip-build-dependency-validation" to bypass this check.
+[        ] Potential fix: Your project's AGP version is typically defined in the plugins block of the `settings.gradle` file (D:\Agua Potable\AppAsistencia\android/settings.gradle), by a plugin with the id of com.android.application. 
+[        ] If you don't see a plugins block, your project was likely created with an older template version. In this case it is most likely defined in the top-level build.gradle file (D:\Agua Potable\AppAsistencia\android/build.gradle) by the following line in the dependencies block of the buildscript: "classpath 'com.android.tools.build:gradle:<version>'".
+[        ] Warning: Flutter support for your project's Kotlin version (1.8.22) will soon be dropped. Please upgrade your Kotlin version to a version of at least 2.1.0 soon.
+[        ] Alternatively, use the flag "--android-skip-build-dependency-validation" to bypass this check.
+[        ] Potential fix: Your project's KGP version is typically defined in the plugins block of the `settings.gradle` file (D:\Agua Potable\AppAsistencia\android/settings.gradle), by a plugin with the id of org.jetbrains.kotlin.android. 
+[        ] If you don't see a plugins block, your project was likely created with an older template version, in which case it is most likely defined in the top-level build.gradle file (D:\Agua Potable\AppAsistencia\android/build.gradle) by the ext.kotlin_version property.
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[   +2 ms] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\android-sdk
+[   +1 ms] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\android-sdk
+[        ] Parsed shrinker version: 8.2.42
+[        ] > Configure project :
+[        ] Evaluating root project 'android' using build file 'D:\Agua Potable\AppAsistencia\android\build.gradle'.
+[        ] All projects evaluated.
+[  +73 ms] Task name matched 'assembleDebug'
+[   +1 ms] Selected primary task 'assembleDebug' from project :
+[ +200 ms] Tasks to be executed: [task ':app:DebugMinSdkCheck', task ':app:preBuild', task ':app:preDebugBuild', task ':app:mergeDebugNativeDebugMetadata', task ':app:compileFlutterBuildDebug', task ':app:packJniLibsflutterBuildDebug', task ':app:checkDebugAarMetadata', task ':app:cleanMergeDebugAssets', task ':app:mergeDebugShaders', task ':app:compileDebugShaders', task ':app:generateDebugAssets', task ':app:mergeDebugAssets', task ':app:copyFlutterAssetsDebug', task ':app:generateDebugResValues', task ':app:processDebugGoogleServices', task ':app:mapDebugSourceSetPaths', task ':app:generateDebugResources', task ':app:mergeDebugResources', task ':app:packageDebugResources', task ':app:parseDebugLocalResources', task ':app:createDebugCompatibleScreenManifests', task ':app:extractDeepLinksDebug', task ':app:processDebugMainManifest', task ':app:outputDebugAppLinkSettings', task ':app:processDebugManifest', task ':app:processDebugManifestForPackage', task ':app:processDebugResources', task ':app:compileDebugKotlin', task ':app:javaPreCompileDebug', task ':app:compileDebugJavaWithJavac', task ':app:compressDebugAssets', task ':app:processDebugJavaRes', task ':app:mergeDebugJavaResource', task ':app:checkDebugDuplicateClasses', task ':app:desugarDebugFileDependencies', task ':app:mergeExtDexDebug', task ':app:mergeLibDexDebug', task ':app:dexBuilderDebug', task ':app:mergeProjectDexDebug', task ':app:configureCMakeDebug[arm64-v8a]', task ':app:buildCMakeDebug[arm64-v8a]', task ':app:configureCMakeDebug[armeabi-v7a]', task ':app:buildCMakeDebug[armeabi-v7a]', task ':app:configureCMakeDebug[x86_64]', task ':app:buildCMakeDebug[x86_64]', task ':app:mergeDebugJniLibFolders', task ':app:mergeDebugNativeLibs', task ':app:stripDebugDebugSymbols', task ':app:validateSigningDebug', task ':app:writeDebugAppMetadata', task ':app:writeDebugSigningConfigVersions', task ':app:packageDebug', task ':app:createDebugApkListingFileRedirect', task ':app:assembleDebug']
+[        ] Tasks that were excluded: []
+[        ] Resolve mutations for :app:DebugMinSdkCheck (Thread[Execution worker,5,main]) started.
+[        ] :app:DebugMinSdkCheck (Thread[Execution worker,5,main]) started.
+[        ] > Task :app:DebugMinSdkCheck
+[        ] Caching disabled for task ':app:DebugMinSdkCheck' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:DebugMinSdkCheck' is not up-to-date because:
+[        ]   Task has not declared any outputs despite executing actions.
+[        ] Resolve mutations for :app:preBuild (Thread[Execution worker,5,main]) started.
+[        ] :app:preBuild (Thread[Execution worker,5,main]) started.
+[        ] > Task :app:preBuild UP-TO-DATE
+[        ] Skipping task ':app:preBuild' as it has no actions.
+[        ] Resolve mutations for :app:preDebugBuild (Thread[Execution worker,5,main]) started.
+[        ] :app:preDebugBuild (Thread[Execution worker Thread 9,5,main]) started.
+[        ] > Task :app:preDebugBuild UP-TO-DATE
+[        ] Skipping task ':app:preDebugBuild' as it has no actions.
+[        ] Resolve mutations for :app:mergeDebugNativeDebugMetadata (Thread[Execution worker Thread 9,5,main]) started.
+[        ] :app:mergeDebugNativeDebugMetadata (Thread[Execution worker Thread 9,5,main]) started.
+[        ] > Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+[        ] Skipping task ':app:mergeDebugNativeDebugMetadata' as it has no source files and no previous output files.
+[        ] Resolve mutations for :app:compileFlutterBuildDebug (Thread[Execution worker Thread 9,5,main]) started.
+[        ] :app:compileFlutterBuildDebug (Thread[Execution worker Thread 9,5,main]) started.
+[+1985 ms] > Task :app:compileFlutterBuildDebug
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\FontManifest.json
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\AssetManifest.bin
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\fonts\MaterialIcons-Regular.otf
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\NOTICES.Z
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\assets\images\.gitkeep
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\packages\cupertino_icons\assets\CupertinoIcons.ttf
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\isolate_snapshot_data
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_build.d
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\NativeAssetsManifest.json
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\shaders\stretch_effect.frag
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\shaders\ink_sparkle.frag
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\kernel_blob.bin
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\vm_snapshot_data
+[        ] Caching disabled for task ':app:compileFlutterBuildDebug' because:
+[        ]   Build cache is disabled
+[        ]   Caching has not been enabled for the task
+[        ] Task ':app:compileFlutterBuildDebug' is not up-to-date because:
+[        ]   Value of input property 'verbose' has changed for task ':app:compileFlutterBuildDebug'
+[        ] Starting process 'command 'C:\Flutter\flutter\bin\flutter.bat''. Working directory: D:\Agua Potable\AppAsistencia Command: C:\Flutter\flutter\bin\flutter.bat --verbose assemble --no-version-check --depfile D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug/flutter_build.d --output D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug -dTargetFile=lib\main.dart -dTargetPlatform=android -dBuildMode=debug -dTrackWidgetCreation=true --DartDefines=RkxVVFRFUl9WRVJTSU9OPTMuNDEuNA==,RkxVVFRFUl9DSEFOTkVMPXN0YWJsZQ==,RkxVVFRFUl9HSVRfVVJMPWh0dHBzOi8vZ2l0aHViLmNvbS9mbHV0dGVyL2ZsdXR0ZXIuZ2l0,RkxVVFRFUl9GUkFNRVdPUktfUkVWSVNJT049ZmYzN2JlZjYwMw==,RkxVVFRFUl9FTkdJTkVfUkVWSVNJT049ZTRiOGRjYTNmMQ==,RkxVVFRFUl9EQVJUX1ZFUlNJT049My4xMS4x -dFlavor= -dAndroidArchs=android-arm android-arm64 android-x64 -dMinSdkVersion=24 debug_android_application
+[        ] Successfully started process 'command 'C:\Flutter\flutter\bin\flutter.bat''
+[+3696 ms] [ +318 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] [   +1 ms] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[   +1 ms] [        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] [   +1 ms] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[ +104 ms] [  +23 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] [   +4 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[  +92 ms] [ +135 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] [   +3 ms] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[   +3 ms] [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] [        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[  +86 ms] [  +70 ms] Initializing file store
+[        ] [  +30 ms] Done initializing file store
+[ +109 ms] [ +113 ms] Skipping target: dart_build
+[        ] [   +4 ms] Skipping target: gen_dart_plugin_registrant
+[        ] [        ] Skipping target: install_code_assets
+[        ] [        ] Skipping target: gen_localizations
+[+1501 ms] [+1447 ms] Skipping target: kernel_snapshot_program
+[        ] [  +24 ms] invalidated build due to missing files: D:\Agua Potable\AppAsistencia\DOES_NOT_EXIST_RERUN_FOR_WILDCARD475681965
+[  +93 ms] [  +94 ms] debug_android_application: Starting due to {InvalidatedReasonKind.outputMissing: The following outputs were missing: D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\vm_snapshot_data,D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\isolate_snapshot_data,D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\kernel_blob.bin,D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\assets\images\.gitkeep,D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\packages\cupertino_icons\assets\CupertinoIcons.ttf,D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\fonts\MaterialIcons-Regular.otf,D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\shaders\ink_sparkle.frag,D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\shaders\stretch_effect.frag,D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\AssetManifest.bin,D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\FontManifest.json,D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\NOTICES.Z,D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\NativeAssetsManifest.json, InvalidatedReasonKind.inputMissing: The following inputs were missing: D:\Agua Potable\AppAsistencia\DOES_NOT_EXIST_RERUN_FOR_WILDCARD475681965}
+[ +793 ms] [ +806 ms] Manifest contained wildcard assets. Inserting missing file into build graph to force rerun. for more information see #56466.
+[        ] [  +13 ms] shaderc command: [C:\Flutter\flutter\bin\cache\artifacts\engine\windows-x64\impellerc.exe, --sksl, --runtime-stage-gles, --runtime-stage-gles3, --runtime-stage-vulkan, --iplr, --sl=D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\shaders/ink_sparkle.frag, --spirv=D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\shaders/ink_sparkle.frag.spirv, --input=C:\Flutter\flutter\packages\flutter\lib\src\material\shaders\ink_sparkle.frag, --input-type=frag, --include=C:\Flutter\flutter\packages\flutter\lib\src\material\shaders, --include=C:\Flutter\flutter\bin\cache\artifacts\engine\windows-x64\shader_lib]
+[        ] [   +4 ms] shaderc command: [C:\Flutter\flutter\bin\cache\artifacts\engine\windows-x64\impellerc.exe, --sksl, --runtime-stage-gles, --runtime-stage-gles3, --runtime-stage-vulkan, --iplr, --sl=D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\shaders/stretch_effect.frag, --spirv=D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\flutter_assets\shaders/stretch_effect.frag.spirv, --input=C:\Flutter\flutter\packages\flutter\lib\src\material\shaders\stretch_effect.frag, --input-type=frag, --include=C:\Flutter\flutter\packages\flutter\lib\src\material\shaders, --include=C:\Flutter\flutter\bin\cache\artifacts\engine\windows-x64\shader_lib]
+[+1410 ms] [+1367 ms] debug_android_application: Complete
+[ +498 ms] [ +509 ms] Persisting file store
+[        ] [  +14 ms] Done persisting file store
+[        ] [  +25 ms] build succeeded.
+[        ] [   +9 ms] "flutter assemble" took 4.708ms.
+[  +93 ms] [  +79 ms] Running 1 shutdown hook
+[        ] [        ] Shutdown hooks complete
+[ +309 ms] [ +256 ms] exiting with code 0
+[        ] Resolve mutations for :app:packJniLibsflutterBuildDebug (Thread[Execution worker Thread 9,5,main]) started.
+[        ] :app:packJniLibsflutterBuildDebug (Thread[Execution worker Thread 9,5,main]) started.
+[        ] > Task :app:packJniLibsflutterBuildDebug
+[        ] Caching disabled for task ':app:packJniLibsflutterBuildDebug' because:
+[        ]   Build cache is disabled
+[        ]   Not worth caching
+[        ] Task ':app:packJniLibsflutterBuildDebug' is not up-to-date because:
+[        ]   Output property 'archiveFile' file D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\libs.jar has been removed.
+[        ] file or directory 'D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\armeabi-v7a', not found
+[        ] file or directory 'D:\Agua Potable\AppAsistencia\build\native_assets\android\jniLibs\lib\armeabi-v7a', not found
+[        ] file or directory 'D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\arm64-v8a', not found
+[        ] file or directory 'D:\Agua Potable\AppAsistencia\build\native_assets\android\jniLibs\lib\arm64-v8a', not found
+[        ] file or directory 'D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\x86_64', not found
+[        ] file or directory 'D:\Agua Potable\AppAsistencia\build\native_assets\android\jniLibs\lib\x86_64', not found
+[        ] Resolve mutations for :app:checkDebugAarMetadata (Thread[Execution worker Thread 9,5,main]) started.
+[        ] :app:checkDebugAarMetadata (Thread[Execution worker Thread 9,5,main]) started.
+[  +89 ms] > Task :app:checkDebugAarMetadata
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\aar_metadata_check\debug
+[        ] Caching disabled for task ':app:checkDebugAarMetadata' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Task ':app:checkDebugAarMetadata' is not up-to-date because:
+[        ]   Output property 'dummyOutputDirectory' file D:\Agua Potable\AppAsistencia\build\app\intermediates\aar_metadata_check\debug has been removed.
+[        ] Resolve mutations for :app:cleanMergeDebugAssets (Thread[Execution worker Thread 11,5,main]) started.
+[        ] :app:cleanMergeDebugAssets (Thread[Execution worker Thread 11,5,main]) started.
+[        ] > Task :app:cleanMergeDebugAssets
+[        ] Caching disabled for task ':app:cleanMergeDebugAssets' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:cleanMergeDebugAssets' is not up-to-date because:
+[        ]   Task has not declared any outputs despite executing actions.
+[        ] Resolve mutations for :app:mergeDebugShaders (Thread[Execution worker Thread 11,5,main]) started.
+[        ] :app:mergeDebugShaders (Thread[Execution worker Thread 11,5,main]) started.
+[        ] > Task :app:mergeDebugShaders
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\merged_shaders\debug\out
+[        ] Caching disabled for task ':app:mergeDebugShaders' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:mergeDebugShaders' is not up-to-date because:
+[        ]   Output property 'outputDir' file D:\Agua Potable\AppAsistencia\build\app\intermediates\merged_shaders\debug\out has been removed.
+[        ] The input changes require a full rebuild for incremental task ':app:mergeDebugShaders'.
+[        ] Resolve mutations for :app:compileDebugShaders (Thread[Execution worker Thread 11,5,main]) started.
+[        ] :app:compileDebugShaders (Thread[Execution worker Thread 11,5,main]) started.
+[        ] > Task :app:compileDebugShaders NO-SOURCE
+[        ] Skipping task ':app:compileDebugShaders' as it has no source files and no previous output files.
+[        ] Resolve mutations for :app:generateDebugAssets (Thread[Execution worker Thread 11,5,main]) started.
+[        ] :app:generateDebugAssets (Thread[Execution worker Thread 11,5,main]) started.
+[        ] > Task :app:generateDebugAssets UP-TO-DATE
+[        ] Skipping task ':app:generateDebugAssets' as it has no actions.
+[        ] Resolve mutations for :app:mergeDebugAssets (Thread[Execution worker Thread 4,5,main]) started.
+[        ] :app:mergeDebugAssets (Thread[Execution worker Thread 4,5,main]) started.
+[        ] > Task :app:mergeDebugAssets
+[        ] Caching disabled for task ':app:mergeDebugAssets' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:mergeDebugAssets' is not up-to-date because:
+[        ]   Output property 'outputDir' file D:\Agua Potable\AppAsistencia\build\app\intermediates\assets\debug has been removed.
+[        ] The input changes require a full rebuild for incremental task ':app:mergeDebugAssets'.
+[        ] Resolve mutations for :app:copyFlutterAssetsDebug (Thread[Execution worker Thread 11,5,main]) started.
+[        ] :app:copyFlutterAssetsDebug (Thread[Execution worker Thread 11,5,main]) started.
+[ +288 ms] > Task :app:copyFlutterAssetsDebug
+[        ] Caching disabled for task ':app:copyFlutterAssetsDebug' because:
+[        ]   Build cache is disabled
+[        ]   Not worth caching
+[        ] Task ':app:copyFlutterAssetsDebug' is not up-to-date because:
+[        ]   Output property 'destinationDir' file D:\Agua Potable\AppAsistencia\build\app\intermediates\assets\debug\flutter_assets has been removed.
+[        ]   Output property 'destinationDir' file D:\Agua Potable\AppAsistencia\build\app\intermediates\assets\debug\flutter_assets\AssetManifest.bin has been removed.
+[        ]   Output property 'destinationDir' file D:\Agua Potable\AppAsistencia\build\app\intermediates\assets\debug\flutter_assets\FontManifest.json has been removed.
+[        ]   and more...
+[        ] Resolve mutations for :app:generateDebugResValues (Thread[Execution worker Thread 11,5,main]) started.
+[        ] :app:generateDebugResValues (Thread[Execution worker Thread 11,5,main]) started.
+[        ] > Task :app:generateDebugResValues
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\generated\res\resValues\debug
+[        ] Caching disabled for task ':app:generateDebugResValues' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:generateDebugResValues' is not up-to-date because:
+[        ]   Output property 'outputDirectory' file D:\Agua Potable\AppAsistencia\build\app\generated\res\resValues\debug has been removed.
+[        ] Resolve mutations for :app:processDebugGoogleServices (Thread[Execution worker Thread 11,5,main]) started.
+[        ] :app:processDebugGoogleServices (Thread[Execution worker Thread 11,5,main]) started.
+[        ] > Task :app:processDebugGoogleServices
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\gmpAppId.txt
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\generated\res\processDebugGoogleServices
+[        ] Caching disabled for task ':app:processDebugGoogleServices' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:processDebugGoogleServices' is not up-to-date because:
+[        ]   Output property 'gmpAppId' file D:\Agua Potable\AppAsistencia\build\app\gmpAppId.txt has been removed.
+[        ]   Output property 'outputDirectory' file D:\Agua Potable\AppAsistencia\build\app\generated\res\processDebugGoogleServices has been removed.
+[        ]   Output property 'outputDirectory' file D:\Agua Potable\AppAsistencia\build\app\generated\res\processDebugGoogleServices\values has been removed.
+[        ]   and more...
+[        ] Parsing json file: D:\Agua Potable\AppAsistencia\android\app\google-services.json
+[        ] Resolve mutations for :app:mapDebugSourceSetPaths (Thread[Execution worker Thread 11,5,main]) started.
+[        ] :app:mapDebugSourceSetPaths (Thread[Execution worker Thread 11,5,main]) started.
+[ +104 ms] > Task :app:mapDebugSourceSetPaths
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\source_set_path_map\debug\file-map.txt
+[        ] Caching disabled for task ':app:mapDebugSourceSetPaths' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Task ':app:mapDebugSourceSetPaths' is not up-to-date because:
+[        ]   Output property 'filepathMappingFile' file D:\Agua Potable\AppAsistencia\build\app\intermediates\source_set_path_map\debug\file-map.txt has been removed.
+[        ] Resolve mutations for :app:generateDebugResources (Thread[Execution worker Thread 11,5,main]) started.
+[        ] :app:generateDebugResources (Thread[Execution worker Thread 11,5,main]) started.
+[        ] > Task :app:generateDebugResources
+[        ] Skipping task ':app:generateDebugResources' as it has no actions.
+[        ] Resolve mutations for :app:mergeDebugResources (Thread[Execution worker Thread 11,5,main]) started.
+[        ] :app:mergeDebugResources (Thread[Execution worker Thread 11,5,main]) started.
+[        ] Resolve mutations for :app:packageDebugResources (Thread[Execution worker Thread 6,5,main]) started.
+[        ] :app:packageDebugResources (Thread[Execution worker Thread 6,5,main]) started.
+[        ] > Task :app:mergeDebugResources
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\incremental\debug\mergeDebugResources
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\data_binding_layout_info_type_merge\debug\out
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\generated\res\pngs\debug
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\merged_res\debug
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\merged_res_blame_folder\debug\out
+[        ] Caching disabled for task ':app:mergeDebugResources' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:mergeDebugResources' is not up-to-date because:
+[        ]   Output property 'blameLogOutputFolder' file D:\Agua Potable\AppAsistencia\build\app\intermediates\merged_res_blame_folder\debug\out has been removed.
+[        ]   Output property 'blameLogOutputFolder' file D:\Agua Potable\AppAsistencia\build\app\intermediates\merged_res_blame_folder\debug\out\multi-v2 has been removed.
+[        ]   Output property 'blameLogOutputFolder' file D:\Agua Potable\AppAsistencia\build\app\intermediates\merged_res_blame_folder\debug\out\multi-v2\debug.json has been removed.
+[        ]   and more...
+[        ] The input changes require a full rebuild for incremental task ':app:mergeDebugResources'.
+[        ] [MergeResources] Inputs are non-incremental full task action.
+[        ] Compiling XML table D:\Agua Potable\AppAsistencia\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir\values\values.xml to D:\Agua Potable\AppAsistencia\build\app\intermediates\merged_res\debug\values_values.arsc.flat
+[        ] > Task :app:packageDebugResources
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\incremental\debug\packageDebugResources
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\data_binding_layout_info_type_package\debug\out
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\packaged_res\debug
+[        ] Caching disabled for task ':app:packageDebugResources' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:packageDebugResources' is not up-to-date because:
+[        ]   Output property 'dataBindingLayoutInfoOutFolder' file D:\Agua Potable\AppAsistencia\build\app\intermediates\data_binding_layout_info_type_package\debug\out has been removed.
+[        ]   Output property 'incrementalFolder' file D:\Agua Potable\AppAsistencia\build\app\intermediates\incremental\debug\packageDebugResources has been removed.
+[        ]   Output property 'incrementalFolder' file D:\Agua Potable\AppAsistencia\build\app\intermediates\incremental\debug\packageDebugResources\compile-file-map.properties has been removed.
+[        ]   and more...
+[        ] The input changes require a full rebuild for incremental task ':app:packageDebugResources'.
+[        ] [MergeResources] Inputs are non-incremental full task action.
+[        ] Resolve mutations for :app:parseDebugLocalResources (Thread[Execution worker Thread 6,5,main]) started.
+[        ] :app:parseDebugLocalResources (Thread[Execution worker Thread 6,5,main]) started.
+[        ] Resolve mutations for :app:createDebugCompatibleScreenManifests (Thread[Execution worker Thread 11,5,main]) started.
+[        ] :app:createDebugCompatibleScreenManifests (Thread[Execution worker Thread 11,5,main]) started.
+[        ] > Task :app:createDebugCompatibleScreenManifests
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\compatible_screen_manifest\debug
+[        ] Caching disabled for task ':app:createDebugCompatibleScreenManifests' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Task ':app:createDebugCompatibleScreenManifests' is not up-to-date because:
+[        ]   Output property 'outputFolder' file D:\Agua Potable\AppAsistencia\build\app\intermediates\compatible_screen_manifest\debug has been removed.
+[        ]   Output property 'outputFolder' file D:\Agua Potable\AppAsistencia\build\app\intermediates\compatible_screen_manifest\debug\output-metadata.json has been removed.
+[        ] Resolve mutations for :app:extractDeepLinksDebug (Thread[Execution worker Thread 11,5,main]) started.
+[        ] :app:extractDeepLinksDebug (Thread[Execution worker Thread 11,5,main]) started.
+[        ] > Task :app:extractDeepLinksDebug
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\navigation_json\debug\navigation.json
+[        ] Caching disabled for task ':app:extractDeepLinksDebug' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:extractDeepLinksDebug' is not up-to-date because:
+[        ]   Output property 'navigationJson' file D:\Agua Potable\AppAsistencia\build\app\intermediates\navigation_json\debug\navigation.json has been removed.
+[        ] Resolve mutations for :app:processDebugMainManifest (Thread[Execution worker Thread 11,5,main]) started.
+[        ] :app:processDebugMainManifest (Thread[Execution worker Thread 11,5,main]) started.
+[  +84 ms] > Task :app:parseDebugLocalResources
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\local_only_symbol_list\debug\R-def.txt
+[        ] Caching disabled for task ':app:parseDebugLocalResources' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:parseDebugLocalResources' is not up-to-date because:
+[        ]   Output property 'librarySymbolsFile' file D:\Agua Potable\AppAsistencia\build\app\intermediates\local_only_symbol_list\debug\R-def.txt has been removed.
+[        ] The input changes require a full rebuild for incremental task ':app:parseDebugLocalResources'.
+[        ] > Task :app:processDebugMainManifest
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\manifest_merge_blame_file\debug\manifest-merger-blame-debug-report.txt
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\outputs\logs\manifest-merger-debug-report.txt
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\merged_manifest\debug\processDebugMainManifest\AndroidManifest.xml
+[        ] Caching disabled for task ':app:processDebugMainManifest' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:processDebugMainManifest' is not up-to-date because:
+[        ]   Output property 'mergeBlameFile' file D:\Agua Potable\AppAsistencia\build\app\intermediates\manifest_merge_blame_file\debug\manifest-merger-blame-debug-report.txt has been removed.
+[        ]   Output property 'mergedManifest' file D:\Agua Potable\AppAsistencia\build\app\intermediates\merged_manifest\debug\processDebugMainManifest\AndroidManifest.xml has been removed.
+[        ]   Output property 'reportFile' file D:\Agua Potable\AppAsistencia\build\app\outputs\logs\manifest-merger-debug-report.txt has been removed.
+[        ] Merging main manifest D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml
+[        ] Merging result: SUCCESS
+[        ] 1<?xml version="1.0" encoding="utf-8"?>
+[        ] 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+[        ] 3    package="com.example.asistencia_agua_potable"
+[        ] 4    android:versionCode="1"
+[        ] 5    android:versionName="1.0.0" >
+[        ] 6
+[        ] 7    <uses-sdk
+[        ] 8        android:minSdkVersion="24"
+[        ] 9        android:targetSdkVersion="34" />
+[        ] 10    <!-- Permisos de Internet -->
+[        ] 11    <uses-permission android:name="android.permission.INTERNET" />
+[        ] 11-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:3:5-67
+[        ] 11-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:3:22-64
+[        ] 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+[        ] 12-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:4:5-79
+[        ] 12-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:4:22-76
+[        ] 13
+[  +11 ms] 14    <!-- Permisos de C�mara para QR -->
+[   +1 ms] 15    <uses-permission android:name="android.permission.CAMERA" />
+[        ] 15-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:7:5-65
+[        ] 15-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:7:22-62
+[        ] 16
+[        ] 17    <uses-feature
+[        ] 17-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:8:5-85
+[        ] 18        android:name="android.hardware.camera"
+[        ] 18-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:8:19-57
+[        ] 19        android:required="false" />
+[        ] 19-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:8:58-82
+[        ] 20    <uses-feature
+[        ] 20-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:9:5-95
+[        ] 21        android:name="android.hardware.camera.autofocus"
+[        ] 21-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:9:19-67
+[        ] 22        android:required="false" />
+[        ] 22-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:9:68-92
+[        ] 23
+[        ] 24    <!-- Permisos de almacenamiento -->
+[        ] 25    <uses-permission
+[        ] 25-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:12:5-107
+[        ] 26        android:name="android.permission.READ_EXTERNAL_STORAGE"
+[        ] 26-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:12:22-77
+[        ] 27        android:maxSdkVersion="32" />
+[        ] 27-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:12:78-104
+[        ] 28    <uses-permission
+[        ] 28-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:13:5-108
+[        ] 29        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+[        ] 29-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:13:22-78
+[        ] 30        android:maxSdkVersion="29" />
+[        ] 30-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:13:79-105
+[        ] 31
+[        ] 32    <!-- Permisos para notificaciones -->
+[        ] 33    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+[        ] 33-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:16:5-81
+[        ] 33-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:16:22-78
+[        ] 34    <uses-permission android:name="android.permission.VIBRATE" />
+[        ] 34-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:17:5-66
+[        ] 34-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:17:22-63
+[        ] 35    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+[        ] 35-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:18:5-77
+[        ] 35-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:18:22-74
+[        ] 36
+[        ] 37    <!-- Permisos de tel�fono -->
+[        ] 38    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+[        ] 38-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:21:5-75
+[        ] 38-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:21:22-72
+[        ] 39
+[        ] 40    <queries>
+[        ] 40-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:91:5-100:15
+[        ] 41        <intent>
+[        ] 41-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:92:9-95:18
+[        ] 42            <action android:name="android.intent.action.VIEW" />
+[        ] 42-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:93:13-65
+[        ] 42-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:93:21-62
+[        ] 43
+[        ] 44            <data android:scheme="https" />
+[        ] 44-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:94:13-44
+[        ] 44-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:94:19-41
+[        ] 45        </intent>
+[        ] 46        <intent>
+[        ] 46-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:96:9-99:18
+[  +12 ms] 47            <action android:name="android.intent.action.VIEW" />
+[        ] 47-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:93:13-65
+[        ] 47-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:93:21-62
+[        ] 48
+[        ] 49            <data android:scheme="http" />
+[        ] 49-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:94:13-44
+[        ] 49-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:94:19-41
+[        ] 50        </intent>
+[        ] 51    </queries>
+[        ] 52
+[        ] 53    <application
+[        ] 54        android:name="android.app.Application"
+[        ] 54-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:25:9-42
+[        ] 55        android:debuggable="true"
+[        ] 56        android:extractNativeLibs="false"
+[        ] 57        android:icon="@mipmap/ic_launcher"
+[        ] 57-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:26:9-43
+[        ] 58        android:label="Control de Asistencia"
+[        ] 58-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:24:9-46
+[        ] 59        android:usesCleartextTraffic="true" >
+[        ] 59-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:27:9-44
+[        ] 60        <activity
+[        ] 60-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:29:9-47:20
+[        ] 61            android:name="com.example.asistencia_agua_potable.MainActivity"
+[        ] 61-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:30:13-41
+[        ] 62            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+[        ] 62-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:35:13-163
+[        ] 63            android:exported="true"
+[        ] 63-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:31:13-36
+[        ] 64            android:hardwareAccelerated="true"
+[        ] 64-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:36:13-47
+[        ] 65            android:launchMode="singleTop"
+[        ] 65-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:32:13-43
+[        ] 66            android:taskAffinity=""
+[        ] 66-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:33:13-36
+[        ] 67            android:theme="@style/LaunchTheme"
+[        ] 67-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:34:13-47
+[        ] 68            android:windowSoftInputMode="adjustResize" >
+[        ] 68-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:37:13-55
+[        ] 69            <meta-data
+[        ] 69-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:39:13-41:57
+[        ] 70                android:name="io.flutter.embedding.android.NormalTheme"
+[        ] 70-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:40:17-72
+[        ] 71                android:resource="@style/NormalTheme" />
+[        ] 71-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:41:17-54
+[        ] 72
+[        ] 73            <intent-filter>
+[        ] 73-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:43:13-46:29
+[        ] 74                <action android:name="android.intent.action.MAIN" />
+[        ] 74-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:44:17-68
+[        ] 74-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:44:25-66
+[        ] 75
+[        ] 76                <category android:name="android.intent.category.LAUNCHER" />
+[        ] 76-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:45:17-76
+[        ] 76-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:45:27-74
+[        ] 77            </intent-filter>
+[        ] 78        </activity>
+[        ] 79
+[        ] 80        <!-- Notificaciones -->
+[        ] 81        <meta-data
+[        ] 81-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:50:9-52:50
+[        ] 82            android:name="com.google.firebase.messaging.default_notification_channel_id"
+[        ] 82-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:51:13-89
+[        ] 83            android:value="asistencia_channel" />
+[        ] 83-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:52:13-47
+[        ] 84        <meta-data
+[        ] 84-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:54:9-56:54
+[        ] 85            android:name="com.google.firebase.messaging.default_notification_icon"
+[        ] 85-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:55:13-83
+[        ] 86            android:resource="@mipmap/ic_launcher" />
+[  +37 ms] 86-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:56:13-51
+[        ] 87        <meta-data
+[        ] 87-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:58:9-60:49
+[        ] 88            android:name="com.google.firebase.messaging.default_notification_color"
+[        ] 88-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:59:13-84
+[        ] 89            android:resource="@color/primary" />
+[        ] 89-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:60:13-46
+[        ] 90
+[        ] 91        <!-- Servicios de notificaciones -->
+[        ] 92        <service
+[        ] 92-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:63:9-69:19
+[        ] 93            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+[        ] 93-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:64:13-82
+[        ] 94            android:exported="false" >
+[        ] 94-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:65:13-37
+[        ] 95            <intent-filter>
+[        ] 95-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:66:13-68:29
+[        ] 96                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+[        ] 96-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:67:17-78
+[        ] 96-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:67:25-75
+[        ] 97            </intent-filter>
+[        ] 98        </service>
+[        ] 99
+[        ] 100        <receiver
+[        ] 100-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:71:9-73:40
+[        ] 101            android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver"
+[        ] 101-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:72:13-97
+[        ] 102            android:exported="false" />
+[        ] 102-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:73:13-37
+[        ] 103        <receiver
+[        ] 103-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:75:9-84:20
+[        ] 104            android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver"
+[        ] 104-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:76:13-101
+[        ] 105            android:exported="false" >
+[        ] 105-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:77:13-37
+[        ] 106            <intent-filter>
+[        ] 106-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:78:13-83:29
+[        ] 107                <action android:name="android.intent.action.BOOT_COMPLETED" />
+[        ] 107-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:79:17-79
+[        ] 107-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:79:25-76
+[        ] 108                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+[        ] 108-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:80:17-84
+[        ] 108-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:80:25-81
+[        ] 109                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+[        ] 109-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:81:17-82
+[        ] 109-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:81:25-79
+[        ] 110                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+[        ] 110-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:82:17-82
+[        ] 110-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:82:25-79
+[        ] 111            </intent-filter>
+[        ] 112        </receiver>
+[        ] 113
+[        ] 114        <meta-data
+[        ] 114-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:86:9-88:33
+[        ] 115            android:name="flutterEmbedding"
+[        ] 115-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:87:13-44
+[        ] 116            android:value="2" />
+[        ] 116-->D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:88:13-30
+[        ] 117    </application>
+[        ] 118
+[        ] 119</manifest>
+[        ] Merged manifest saved to D:\Agua Potable\AppAsistencia\build\app\intermediates\merged_manifest\debug\processDebugMainManifest\AndroidManifest.xml
+[        ] Resolve mutations for :app:outputDebugAppLinkSettings (Thread[Execution worker Thread 11,5,main]) started.
+[        ] :app:outputDebugAppLinkSettings (Thread[Execution worker Thread 11,5,main]) started.
+[        ] > Task :app:outputDebugAppLinkSettings
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\deeplink.json
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\merged_manifest\debug\AndroidManifest.xml
+[        ] Caching disabled for task ':app:outputDebugAppLinkSettings' because:
+[        ]   Build cache is disabled
+[        ]   Caching has not been enabled for the task
+[        ] Task ':app:outputDebugAppLinkSettings' is not up-to-date because:
+[        ]   Output property 'deepLinkJson' file D:\Agua Potable\AppAsistencia\build\app\deeplink.json has been removed.
+[        ]   Output property 'updatedManifest' file D:\Agua Potable\AppAsistencia\build\app\intermediates\merged_manifest\debug\AndroidManifest.xml has been removed.
+[        ] Resolve mutations for :app:processDebugManifest (Thread[Execution worker Thread 11,5,main]) started.
+[        ] :app:processDebugManifest (Thread[Execution worker Thread 11,5,main]) started.
+[        ] > Task :app:processDebugManifest
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\merged_manifests\debug
+[        ] Caching disabled for task ':app:processDebugManifest' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:processDebugManifest' is not up-to-date because:
+[        ]   Output property 'multiApkManifestOutputDirectory' file D:\Agua Potable\AppAsistencia\build\app\intermediates\merged_manifests\debug has been removed.
+[        ]   Output property 'multiApkManifestOutputDirectory' file D:\Agua Potable\AppAsistencia\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml has been removed.
+[        ]   Output property 'multiApkManifestOutputDirectory' file D:\Agua Potable\AppAsistencia\build\app\intermediates\merged_manifests\debug\output-metadata.json has been removed.
+[        ] Resolve mutations for :app:processDebugManifestForPackage (Thread[Execution worker Thread 11,5,main]) started.
+[        ] :app:processDebugManifestForPackage (Thread[Execution worker Thread 11,5,main]) started.
+[        ] Resolve mutations for :app:javaPreCompileDebug (Thread[Execution worker Thread 6,5,main]) started.
+[        ] :app:javaPreCompileDebug (Thread[Execution worker Thread 6,5,main]) started.
+[        ] Resolve mutations for :app:compressDebugAssets (Thread[Execution worker Thread 10,5,main]) started.
+[        ] :app:compressDebugAssets (Thread[Execution worker Thread 10,5,main]) started.
+[        ] > Task :app:javaPreCompileDebug
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\annotation_processor_list\debug\annotationProcessors.json
+[        ] Caching disabled for task ':app:javaPreCompileDebug' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:javaPreCompileDebug' is not up-to-date because:
+[        ]   Output property 'annotationProcessorListFile' file D:\Agua Potable\AppAsistencia\build\app\intermediates\annotation_processor_list\debug\annotationProcessors.json has been removed.
+[  +97 ms] Resolve mutations for :app:checkDebugDuplicateClasses (Thread[Execution worker Thread 6,5,main]) started.
+[        ] :app:checkDebugDuplicateClasses (Thread[Execution worker Thread 6,5,main]) started.
+[ +108 ms] Resolve mutations for :app:desugarDebugFileDependencies (Thread[Execution worker Thread 12,5,main]) started.
+[        ] :app:desugarDebugFileDependencies (Thread[Execution worker Thread 12,5,main]) started.
+[        ] > Task :app:checkDebugDuplicateClasses
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\duplicate_classes_check\debug
+[        ] Invalidating in-memory cache of C:\Users\Admin\.gradle\caches\journal-1\file-access.bin
+[        ] Caching disabled for JetifyTransform: D:\Agua Potable\AppAsistencia\build\app\intermediates\flutter\debug\libs.jar because:
+[        ]   Build cache is disabled
+[        ] Invalidating in-memory cache of C:\Users\Admin\.gradle\caches\8.14\fileHashes\fileHashes.bin
+[        ] Invalidating in-memory cache of C:\Users\Admin\.gradle\caches\8.14\fileHashes\resourceHashesCache.bin
+[        ] Caching disabled for IdentityTransform: C:\Users\Admin\.gradle\caches\8.14\transforms\949dbbc462773f83e495c13de26d9183\transformed\jetified-libs.jar because:
+[        ]   Build cache is disabled
+[        ]   Caching not enabled.
+[        ] Caching disabled for EnumerateClassesTransform: C:\Users\Admin\.gradle\caches\8.14\transforms\949dbbc462773f83e495c13de26d9183\transformed\jetified-libs.jar because:
+[        ]   Build cache is disabled
+[        ] Caching disabled for task ':app:checkDebugDuplicateClasses' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Task ':app:checkDebugDuplicateClasses' is not up-to-date because:
+[        ]   Output property 'dummyOutputDirectory' file D:\Agua Potable\AppAsistencia\build\app\intermediates\duplicate_classes_check\debug has been removed.
+[        ] Resolve mutations for :app:mergeLibDexDebug (Thread[Execution worker Thread 4,5,main]) started.
+[        ] :app:mergeLibDexDebug (Thread[Execution worker Thread 4,5,main]) started.
+[        ] Resolve mutations for :app:configureCMakeDebug[arm64-v8a] (Thread[Execution worker Thread 15,5,main]) started.
+[        ] :app:configureCMakeDebug[arm64-v8a] (Thread[Execution worker Thread 15,5,main]) started.
+[        ] > Task :app:desugarDebugFileDependencies
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\external_file_lib_dex_archives\debug
+[        ] Caching disabled for task ':app:desugarDebugFileDependencies' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:desugarDebugFileDependencies' is not up-to-date because:
+[        ]   Output property 'outputDirectory' file D:\Agua Potable\AppAsistencia\build\app\intermediates\external_file_lib_dex_archives\debug has been removed.
+[  +86 ms] > Task :app:mergeLibDexDebug
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\dex\debug\mergeLibDexDebug
+[        ] Caching disabled for task ':app:mergeLibDexDebug' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:mergeLibDexDebug' is not up-to-date because:
+[        ]   Output property 'outputDir' file D:\Agua Potable\AppAsistencia\build\app\intermediates\dex\debug\mergeLibDexDebug has been removed.
+[        ]   Output property 'outputDir' file D:\Agua Potable\AppAsistencia\build\app\intermediates\dex\debug\mergeLibDexDebug\0 has been removed.
+[        ]   Output property 'outputDir' file D:\Agua Potable\AppAsistencia\build\app\intermediates\dex\debug\mergeLibDexDebug\1 has been removed.
+[        ]   and more...
+[        ] The input changes require a full rebuild for incremental task ':app:mergeLibDexDebug'.
+[ +296 ms] > Task :app:configureCMakeDebug[arm64-v8a]
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\cxx\debug\5d6j2s3b\logs\arm64-v8a
+[        ] Caching disabled for task ':app:configureCMakeDebug[arm64-v8a]' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Task ':app:configureCMakeDebug[arm64-v8a]' is not up-to-date because:
+[        ]   Task.upToDateWhen is false.
+[        ] C/C++: C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|arm64-v8a : Start JSON generation. Platform version: 24 min SDK version: arm64-v8a
+[        ] C/C++: C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|arm64-v8a : JSON 'D:\Agua Potable\AppAsistencia\build\.cxx\debug\5d6j2s3b\arm64-v8a\android_gradle_build.json' was up-to-date
+[        ] C/C++: C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|arm64-v8a : JSON generation completed without problems
+[        ] C/C++: C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|arm64-v8a : Writing build model to D:\Agua Potable\AppAsistencia\build\app\intermediates\cxx\debug\5d6j2s3b\logs\arm64-v8a\build_model.json
+[        ] Resolve mutations for :app:mergeExtDexDebug (Thread[Execution worker Thread 15,5,main]) started.
+[        ] :app:mergeExtDexDebug (Thread[Execution worker Thread 9,5,main]) started.
+[        ] Resolve mutations for :app:buildCMakeDebug[arm64-v8a] (Thread[Execution worker Thread 15,5,main]) started.
+[        ] :app:buildCMakeDebug[arm64-v8a] (Thread[Execution worker Thread 15,5,main]) started.
+[        ] > Task :app:buildCMakeDebug[arm64-v8a]
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\cxx\debug\5d6j2s3b\obj\arm64-v8a
+[        ] Caching disabled for task ':app:buildCMakeDebug[arm64-v8a]' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Task ':app:buildCMakeDebug[arm64-v8a]' is not up-to-date because:
+[        ]   Task.upToDateWhen is false.
+[        ] C/C++: starting build
+[        ] C/C++: reading expected JSONs
+[        ] C/C++: done reading expected JSONs
+[        ] C/C++: executing build commands for targets that produce .so files or executables
+[        ] C/C++: evaluate miniconfig
+[        ] C/C++: no libraries
+[        ] Resolve mutations for :app:configureCMakeDebug[armeabi-v7a] (Thread[Execution worker Thread 15,5,main]) started.
+[        ] :app:configureCMakeDebug[armeabi-v7a] (Thread[Execution worker Thread 15,5,main]) started.
+[        ] > Task :app:configureCMakeDebug[armeabi-v7a]
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\cxx\debug\5d6j2s3b\logs\armeabi-v7a
+[        ] Caching disabled for task ':app:configureCMakeDebug[armeabi-v7a]' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Task ':app:configureCMakeDebug[armeabi-v7a]' is not up-to-date because:
+[        ]   Task.upToDateWhen is false.
+[        ] C/C++: C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|armeabi-v7a : Start JSON generation. Platform version: 24 min SDK version: armeabi-v7a
+[        ] C/C++: C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|armeabi-v7a : JSON 'D:\Agua Potable\AppAsistencia\build\.cxx\debug\5d6j2s3b\armeabi-v7a\android_gradle_build.json' was up-to-date
+[        ] C/C++: C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|armeabi-v7a : JSON generation completed without problems
+[        ] C/C++: C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|armeabi-v7a : Writing build model to D:\Agua Potable\AppAsistencia\build\app\intermediates\cxx\debug\5d6j2s3b\logs\armeabi-v7a\build_model.json
+[        ] Resolve mutations for :app:buildCMakeDebug[armeabi-v7a] (Thread[Execution worker Thread 15,5,main]) started.
+[  +98 ms] :app:buildCMakeDebug[armeabi-v7a] (Thread[Execution worker Thread 15,5,main]) started.
+[        ] > Task :app:buildCMakeDebug[armeabi-v7a]
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\cxx\debug\5d6j2s3b\obj\armeabi-v7a
+[        ] Caching disabled for task ':app:buildCMakeDebug[armeabi-v7a]' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Task ':app:buildCMakeDebug[armeabi-v7a]' is not up-to-date because:
+[        ]   Task.upToDateWhen is false.
+[        ] C/C++: starting build
+[        ] C/C++: reading expected JSONs
+[        ] C/C++: done reading expected JSONs
+[        ] C/C++: executing build commands for targets that produce .so files or executables
+[        ] C/C++: evaluate miniconfig
+[        ] C/C++: no libraries
+[        ] Resolve mutations for :app:configureCMakeDebug[x86_64] (Thread[Execution worker Thread 15,5,main]) started.
+[        ] :app:configureCMakeDebug[x86_64] (Thread[Execution worker Thread 15,5,main]) started.
+[        ] > Task :app:configureCMakeDebug[x86_64]
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\cxx\debug\5d6j2s3b\logs\x86_64
+[        ] Caching disabled for task ':app:configureCMakeDebug[x86_64]' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Task ':app:configureCMakeDebug[x86_64]' is not up-to-date because:
+[        ]   Task.upToDateWhen is false.
+[        ] C/C++: C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|x86_64 : Start JSON generation. Platform version: 24 min SDK version: x86_64
+[        ] C/C++: C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|x86_64 : JSON 'D:\Agua Potable\AppAsistencia\build\.cxx\debug\5d6j2s3b\x86_64\android_gradle_build.json' was up-to-date
+[        ] C/C++: C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|x86_64 : JSON generation completed without problems
+[        ] C/C++: C:\Flutter\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|x86_64 : Writing build model to D:\Agua Potable\AppAsistencia\build\app\intermediates\cxx\debug\5d6j2s3b\logs\x86_64\build_model.json
+[        ] Resolve mutations for :app:buildCMakeDebug[x86_64] (Thread[Execution worker Thread 15,5,main]) started.
+[        ] :app:buildCMakeDebug[x86_64] (Thread[Execution worker Thread 15,5,main]) started.
+[        ] > Task :app:buildCMakeDebug[x86_64]
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\cxx\debug\5d6j2s3b\obj\x86_64
+[        ] Caching disabled for task ':app:buildCMakeDebug[x86_64]' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Task ':app:buildCMakeDebug[x86_64]' is not up-to-date because:
+[        ]   Task.upToDateWhen is false.
+[        ] C/C++: starting build
+[        ] C/C++: reading expected JSONs
+[        ] C/C++: done reading expected JSONs
+[        ] C/C++: executing build commands for targets that produce .so files or executables
+[        ] C/C++: evaluate miniconfig
+[        ] C/C++: no libraries
+[        ] Resolve mutations for :app:mergeDebugJniLibFolders (Thread[Execution worker Thread 15,5,main]) started.
+[        ] :app:mergeDebugJniLibFolders (Thread[Execution worker Thread 15,5,main]) started.
+[        ] > Task :app:mergeDebugJniLibFolders
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\merged_jni_libs\debug\out
+[        ] Caching disabled for task ':app:mergeDebugJniLibFolders' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:mergeDebugJniLibFolders' is not up-to-date because:
+[        ]   Output property 'outputDir' file D:\Agua Potable\AppAsistencia\build\app\intermediates\merged_jni_libs\debug\out has been removed.
+[        ] The input changes require a full rebuild for incremental task ':app:mergeDebugJniLibFolders'.
+[        ] Resolve mutations for :app:mergeDebugNativeLibs (Thread[Execution worker Thread 15,5,main]) started.
+[        ] :app:mergeDebugNativeLibs (Thread[Execution worker Thread 15,5,main]) started.
+[  +85 ms] > Task :app:mergeDebugNativeLibs UP-TO-DATE
+[        ] Caching disabled for ExtractJniTransform: C:\Users\Admin\.gradle\caches\8.14\transforms\949dbbc462773f83e495c13de26d9183\transformed\jetified-libs.jar because:
+[        ]   Build cache is disabled
+[        ] Caching disabled for task ':app:mergeDebugNativeLibs' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':app:mergeDebugNativeLibs' as it is up-to-date.
+[        ] Resolve mutations for :app:stripDebugDebugSymbols (Thread[Execution worker Thread 15,5,main]) started.
+[        ] :app:stripDebugDebugSymbols (Thread[Execution worker Thread 15,5,main]) started.
+[ +201 ms] Resolve mutations for :app:validateSigningDebug (Thread[Execution worker Thread 13,5,main]) started.
+[        ] :app:validateSigningDebug (Thread[Execution worker Thread 13,5,main]) started.
+[        ] > Task :app:validateSigningDebug
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\validate_signing_config\debug
+[        ] Caching disabled for task ':app:validateSigningDebug' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Task ':app:validateSigningDebug' is not up-to-date because:
+[        ]   Output property 'dummyOutputDirectory' file D:\Agua Potable\AppAsistencia\build\app\intermediates\validate_signing_config\debug has been removed.
+[        ] Resolve mutations for :app:writeDebugAppMetadata (Thread[Execution worker Thread 13,5,main]) started.
+[        ] :app:writeDebugAppMetadata (Thread[Execution worker Thread 13,5,main]) started.
+[        ] > Task :app:writeDebugAppMetadata
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\app_metadata\debug\app-metadata.properties
+[        ] Caching disabled for task ':app:writeDebugAppMetadata' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Task ':app:writeDebugAppMetadata' is not up-to-date because:
+[        ]   Output property 'outputFile' file D:\Agua Potable\AppAsistencia\build\app\intermediates\app_metadata\debug\app-metadata.properties has been removed.
+[        ] Resolve mutations for :app:writeDebugSigningConfigVersions (Thread[included builds,5,main]) started.
+[        ] :app:writeDebugSigningConfigVersions (Thread[included builds,5,main]) started.
+[        ] > Task :app:writeDebugSigningConfigVersions
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\signing_config_versions\debug\signing-config-versions.json
+[        ] Caching disabled for task ':app:writeDebugSigningConfigVersions' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Task ':app:writeDebugSigningConfigVersions' is not up-to-date because:
+[        ]   Output property 'outputFile' file D:\Agua Potable\AppAsistencia\build\app\intermediates\signing_config_versions\debug\signing-config-versions.json has been removed.
+[        ] > Task :app:processDebugManifestForPackage
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\packaged_manifests\debug
+[        ] Custom actions are attached to task ':app:processDebugManifestForPackage'.
+[        ] Caching disabled for task ':app:processDebugManifestForPackage' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:processDebugManifestForPackage' is not up-to-date because:
+[        ]   Output property 'packageManifests' file D:\Agua Potable\AppAsistencia\build\app\intermediates\packaged_manifests\debug has been removed.
+[        ]   Output property 'packageManifests' file D:\Agua Potable\AppAsistencia\build\app\intermediates\packaged_manifests\debug\AndroidManifest.xml has been removed.
+[        ]   Output property 'packageManifests' file D:\Agua Potable\AppAsistencia\build\app\intermediates\packaged_manifests\debug\output-metadata.json has been removed.
+[        ] Resolve mutations for :app:processDebugResources (Thread[Execution worker Thread 11,5,main]) started.
+[        ] :app:processDebugResources (Thread[Execution worker Thread 11,5,main]) started.
+[ +895 ms] > Task :app:processDebugResources FAILED
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\processed_res\debug\out
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\stable_resource_ids_file\debug\stableIds.txt
+[        ] Registered task dependencies: app:debugCompileClasspath
+[   +1 ms] Starting dependency analysis
+[        ] Caching disabled for task ':app:processDebugResources' because:
+[   +2 ms]   Build cache is disabled
+[        ] Task ':app:processDebugResources' is not up-to-date because:
+[   +1 ms]   Task has failed previously.
+[        ] The input changes require a full rebuild for incremental task ':app:processDebugResources'.
+[   +2 ms] AAPT2 aapt2-8.2.1-10154469-windows Daemon #0: starting
+[        ] Android resource linking failed:
+[        ] process = AAPT2 aapt2-8.2.1-10154469-windows Daemon #0:
+[   +3 ms] command = C:\Users\Admin\.gradle\caches\8.14\transforms\c11db39ed4b0ce9bfea81dc62d6cfce4\transformed\aapt2-8.2.1-10154469-windows\aapt2.exe link -I\
+[        ]         C:\android-sdk\platforms\android-34\android.jar\
+[   +3 ms]         --manifest\
+[        ]         D:\Agua Potable\AppAsistencia\build\app\intermediates\packaged_manifests\debug\AndroidManifest.xml\
+[   +3 ms]         -o\
+[        ]         D:\Agua Potable\AppAsistencia\build\app\intermediates\processed_res\debug\out\resources-debug.ap_\
+[        ]         -R\
+[   +1 ms]         @D:\Agua Potable\AppAsistencia\build\app\intermediates\incremental\processDebugResources\resources-list-for-resources-debug.ap_.txt\
+[        ]         --auto-add-overlay\
+[        ]         --custom-package\
+[   +2 ms]         com.example.asistencia_agua_potable\
+[        ]         -0\
+[   +1 ms]         apk\
+[        ]         --output-text-symbols\
+[        ]         D:\Agua Potable\AppAsistencia\build\app\intermediates\runtime_symbol_list\debug\R.txt\
+[   +3 ms]         --no-version-vectors\
+[        ]         --proguard-minimal-keep-rules\
+[        ]         --no-proguard-location-reference\
+[        ]         --emit-ids\
+[   +2 ms]         D:\Agua Potable\AppAsistencia\build\app\intermediates\stable_resource_ids_file\debug\stableIds.txt
+[        ] > Task :app:compressDebugAssets
+[   +3 ms] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\compressed_assets\debug\out
+[        ] Caching disabled for task ':app:compressDebugAssets' because:
+[   +2 ms]   Build cache is disabled
+[        ] Task ':app:compressDebugAssets' is not up-to-date because:
+[   +2 ms]   Output property 'outputDir' file D:\Agua Potable\AppAsistencia\build\app\intermediates\compressed_assets\debug\out has been removed.
+[        ]   Output property 'outputDir' file D:\Agua Potable\AppAsistencia\build\app\intermediates\compressed_assets\debug\out\assets has been removed.
+[   +2 ms]   Output property 'outputDir' file D:\Agua Potable\AppAsistencia\build\app\intermediates\compressed_assets\debug\out\assets\flutter_assets has been removed.
+[        ]   and more...
+[        ] The input changes require a full rebuild for incremental task ':app:compressDebugAssets'.
+[ +543 ms] > Task :app:stripDebugDebugSymbols
+[        ] Caching disabled for task ':app:stripDebugDebugSymbols' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Task ':app:stripDebugDebugSymbols' is not up-to-date because:
+[        ]   No history is available.
+[        ] The input changes require a full rebuild for incremental task ':app:stripDebugDebugSymbols'.
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: sdkFolder is C:\android-sdk
+[        ] C/C++: sdkFolder is C:\android-sdk
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is C:\android-sdk
+[        ] C/C++: sdkFolder is C:\android-sdk
+[        ] Starting process 'command 'C:\android-sdk\ndk\28.2.13676358\toolchains\llvm\prebuilt\windows-x86_64\bin\llvm-strip''. Working directory: D:\Agua Potable\AppAsistencia\android\app Command: C:\android-sdk\ndk\28.2.13676358\toolchains\llvm\prebuilt\windows-x86_64\bin\llvm-strip --strip-unneeded -o D:\Agua Potable\AppAsistencia\build\app\intermediates\stripped_native_libs\debug\out\lib\arm64-v8a\libVkLayer_khronos_validation.so D:\Agua Potable\AppAsistencia\build\app\intermediates\merged_native_libs\debug\out\lib\arm64-v8a\libVkLayer_khronos_validation.so
+[        ] Starting process 'command 'C:\android-sdk\ndk\28.2.13676358\toolchains\llvm\prebuilt\windows-x86_64\bin\llvm-strip''. Working directory: D:\Agua Potable\AppAsistencia\android\app Command: C:\android-sdk\ndk\28.2.13676358\toolchains\llvm\prebuilt\windows-x86_64\bin\llvm-strip --strip-unneeded -o D:\Agua Potable\AppAsistencia\build\app\intermediates\stripped_native_libs\debug\out\lib\arm64-v8a\libflutter.so D:\Agua Potable\AppAsistencia\build\app\intermediates\merged_native_libs\debug\out\lib\arm64-v8a\libflutter.so
+[        ] Starting process 'command 'C:\android-sdk\ndk\28.2.13676358\toolchains\llvm\prebuilt\windows-x86_64\bin\llvm-strip''. Working directory: D:\Agua Potable\AppAsistencia\android\app Command: C:\android-sdk\ndk\28.2.13676358\toolchains\llvm\prebuilt\windows-x86_64\bin\llvm-strip --strip-unneeded -o D:\Agua Potable\AppAsistencia\build\app\intermediates\stripped_native_libs\debug\out\lib\armeabi-v7a\libflutter.so D:\Agua Potable\AppAsistencia\build\app\intermediates\merged_native_libs\debug\out\lib\armeabi-v7a\libflutter.so
+[        ] Starting process 'command 'C:\android-sdk\ndk\28.2.13676358\toolchains\llvm\prebuilt\windows-x86_64\bin\llvm-strip''. Working directory: D:\Agua Potable\AppAsistencia\android\app Command: C:\android-sdk\ndk\28.2.13676358\toolchains\llvm\prebuilt\windows-x86_64\bin\llvm-strip --strip-unneeded -o D:\Agua Potable\AppAsistencia\build\app\intermediates\stripped_native_libs\debug\out\lib\x86_64\libflutter.so D:\Agua Potable\AppAsistencia\build\app\intermediates\merged_native_libs\debug\out\lib\x86_64\libflutter.so
+[        ] Successfully started process 'command 'C:\android-sdk\ndk\28.2.13676358\toolchains\llvm\prebuilt\windows-x86_64\bin\llvm-strip''
+[        ] Successfully started process 'command 'C:\android-sdk\ndk\28.2.13676358\toolchains\llvm\prebuilt\windows-x86_64\bin\llvm-strip''
+[        ] Successfully started process 'command 'C:\android-sdk\ndk\28.2.13676358\toolchains\llvm\prebuilt\windows-x86_64\bin\llvm-strip''
+[        ] Successfully started process 'command 'C:\android-sdk\ndk\28.2.13676358\toolchains\llvm\prebuilt\windows-x86_64\bin\llvm-strip''
+[ +100 ms] > Task :app:mergeExtDexDebug
+[        ] Deleting stale output file: D:\Agua Potable\AppAsistencia\build\app\intermediates\dex\debug\mergeExtDexDebug
+[        ] Caching disabled for task ':app:mergeExtDexDebug' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:mergeExtDexDebug' is not up-to-date because:
+[        ]   Output property 'outputDir' file D:\Agua Potable\AppAsistencia\build\app\intermediates\dex\debug\mergeExtDexDebug has been removed.
+[        ]   Output property 'outputDir' file D:\Agua Potable\AppAsistencia\build\app\intermediates\dex\debug\mergeExtDexDebug\classes.dex has been removed.
+[        ] The input changes require a full rebuild for incremental task ':app:mergeExtDexDebug'.
+[        ] Merging to 'D:\Agua Potable\AppAsistencia\build\app\intermediates\dex\debug\mergeExtDexDebug' with D8 from all or a subset of dex files in C:\Users\Admin\.gradle\caches\8.14\transforms\bc76ef276d72828533d5983aeb704c43\transformed\jetified-kotlin-stdlib-1.8.22, C:\Users\Admin\.gradle\caches\8.14\transforms\64d1ba7261943fe67df38fb99c923dc2\transformed\jetified-annotations-13.0, and from all global synthetics files in 
+[+5089 ms] AAPT2 aapt2-8.2.1-10154469-windows Daemon #0: shutdown
+[        ] [Incubating] Problems report is available at: file:///D:/Agua%20Potable/AppAsistencia/build/reports/problems/problems-report.html
+[  +93 ms] FAILURE: Build failed with an exception.
+[        ] * What went wrong:
+[        ] Execution failed for task ':app:processDebugResources'.
+[        ] > A failure occurred while executing com.android.build.gradle.internal.res.LinkApplicationAndroidResourcesTask$TaskAction
+[        ]    > Android resource linking failed
+[        ]      ERROR: D:\Agua Potable\AppAsistencia\build\app\intermediates\packaged_manifests\debug\AndroidManifest.xml:53: AAPT: error: resource mipmap/ic_launcher (aka com.example.asistencia_agua_potable:mipmap/ic_launcher) not found.
+[        ]      ERROR: D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:29:9-47:20: AAPT: error: resource style/LaunchTheme (aka com.example.asistencia_agua_potable:style/LaunchTheme) not found.
+[        ]      ERROR: D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:39:13-41:57: AAPT: error: resource style/NormalTheme (aka com.example.asistencia_agua_potable:style/NormalTheme) not found.
+[        ]      ERROR: D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:54:9-56:54: AAPT: error: resource mipmap/ic_launcher (aka com.example.asistencia_agua_potable:mipmap/ic_launcher) not found.
+[        ]      ERROR: D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:58:9-60:49: AAPT: error: resource color/primary (aka com.example.asistencia_agua_potable:color/primary) not found.
+[        ] * Try:
+[        ] > Run with --debug option to get more log output.
+[        ] > Run with --scan to get full insights.
+[        ] > Get more help at https://help.gradle.org.
+[        ] * Exception is:
+[        ] org.gradle.api.tasks.TaskExecutionException: Execution failed for task ':app:processDebugResources'.
+[        ] 	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.lambda$executeIfValid$1(ExecuteActionsTaskExecuter.java:130)
+[        ] 	at org.gradle.internal.Try$Failure.ifSuccessfulOrElse(Try.java:293)
+[        ] 	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeIfValid(ExecuteActionsTaskExecuter.java:128)
+[        ] 	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.execute(ExecuteActionsTaskExecuter.java:116)
+[        ] 	at org.gradle.api.internal.tasks.execution.ProblemsTaskPathTrackingTaskExecuter.execute(ProblemsTaskPathTrackingTaskExecuter.java:41)
+[        ] 	at org.gradle.api.internal.tasks.execution.FinalizePropertiesTaskExecuter.execute(FinalizePropertiesTaskExecuter.java:46)
+[        ] 	at org.gradle.api.internal.tasks.execution.ResolveTaskExecutionModeExecuter.execute(ResolveTaskExecutionModeExecuter.java:51)
+[        ] 	at org.gradle.api.internal.tasks.execution.SkipTaskWithNoActionsExecuter.execute(SkipTaskWithNoActionsExecuter.java:57)
+[        ] 	at org.gradle.api.internal.tasks.execution.SkipOnlyIfTaskExecuter.execute(SkipOnlyIfTaskExecuter.java:74)
+[        ] 	at org.gradle.api.internal.tasks.execution.CatchExceptionTaskExecuter.execute(CatchExceptionTaskExecuter.java:36)
+[        ] 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.executeTask(EventFiringTaskExecuter.java:77)
+[        ] 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:55)
+[        ] 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:52)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:210)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:205)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:67)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:60)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:167)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:60)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:54)
+[        ] 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter.execute(EventFiringTaskExecuter.java:52)
+[        ] 	at org.gradle.execution.plan.LocalTaskNodeExecutor.execute(LocalTaskNodeExecutor.java:42)
+[        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:331)
+[        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:318)
+[        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.lambda$execute$0(DefaultTaskExecutionGraph.java:314)
+[        ] 	at org.gradle.internal.operations.CurrentBuildOperationRef.with(CurrentBuildOperationRef.java:85)
+[        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:314)
+[        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:303)
+[        ] 	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.execute(DefaultPlanExecutor.java:459)
+[        ] 	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.run(DefaultPlanExecutor.java:376)
+[        ] 	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+[        ] 	at org.gradle.internal.concurrent.AbstractManagedExecutor$1.run(AbstractManagedExecutor.java:48)
+[        ] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[        ] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[        ] 	at java.base/java.lang.Thread.run(Thread.java:840)
+[        ] Caused by: org.gradle.workers.internal.DefaultWorkerExecutor$WorkExecutionException: A failure occurred while executing com.android.build.gradle.internal.res.LinkApplicationAndroidResourcesTask$TaskAction
+[        ] 	at org.gradle.workers.internal.DefaultWorkerExecutor$WorkItemExecution.waitForCompletion(DefaultWorkerExecutor.java:287)
+[        ] 	at org.gradle.internal.work.DefaultAsyncWorkTracker.lambda$waitForItemsAndGatherFailures$2(DefaultAsyncWorkTracker.java:130)
+[        ] 	at org.gradle.internal.Factories$1.create(Factories.java:31)
+[        ] 	at org.gradle.internal.work.DefaultWorkerLeaseService.withoutLocks(DefaultWorkerLeaseService.java:335)
+[        ] 	at org.gradle.internal.work.DefaultWorkerLeaseService.withoutLocks(DefaultWorkerLeaseService.java:318)
+[        ] 	at org.gradle.internal.work.DefaultWorkerLeaseService.withoutLock(DefaultWorkerLeaseService.java:323)
+[        ] 	at org.gradle.internal.work.DefaultAsyncWorkTracker.waitForItemsAndGatherFailures(DefaultAsyncWorkTracker.java:126)
+[        ] 	at org.gradle.internal.work.DefaultAsyncWorkTracker.waitForItemsAndGatherFailures(DefaultAsyncWorkTracker.java:92)
+[        ] 	at org.gradle.internal.work.DefaultAsyncWorkTracker.waitForAll(DefaultAsyncWorkTracker.java:78)
+[        ] 	at org.gradle.internal.work.DefaultAsyncWorkTracker.waitForCompletion(DefaultAsyncWorkTracker.java:66)
+[        ] 	at org.gradle.api.internal.tasks.execution.TaskExecution$3.run(TaskExecution.java:252)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:30)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:27)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:67)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:60)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:167)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:60)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:48)
+[        ] 	at org.gradle.api.internal.tasks.execution.TaskExecution.executeAction(TaskExecution.java:229)
+[        ] 	at org.gradle.api.internal.tasks.execution.TaskExecution.executeActions(TaskExecution.java:212)
+[        ] 	at org.gradle.api.internal.tasks.execution.TaskExecution.executeWithPreviousOutputFiles(TaskExecution.java:195)
+[        ] 	at org.gradle.api.internal.tasks.execution.TaskExecution.execute(TaskExecution.java:162)
+[        ] 	at org.gradle.internal.execution.steps.ExecuteStep.executeInternal(ExecuteStep.java:105)
+[        ] 	at org.gradle.internal.execution.steps.ExecuteStep.access$000(ExecuteStep.java:44)
+[        ] 	at org.gradle.internal.execution.steps.ExecuteStep$1.call(ExecuteStep.java:59)
+[        ] 	at org.gradle.internal.execution.steps.ExecuteStep$1.call(ExecuteStep.java:56)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:210)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:205)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:67)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:60)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:167)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:60)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:54)
+[        ] 	at org.gradle.internal.execution.steps.ExecuteStep.execute(ExecuteStep.java:56)
+[        ] 	at org.gradle.internal.execution.steps.ExecuteStep.execute(ExecuteStep.java:44)
+[        ] 	at org.gradle.internal.execution.steps.CancelExecutionStep.execute(CancelExecutionStep.java:42)
+[        ] 	at org.gradle.internal.execution.steps.TimeoutStep.executeWithoutTimeout(TimeoutStep.java:75)
+[        ] 	at org.gradle.internal.execution.steps.TimeoutStep.execute(TimeoutStep.java:55)
+[        ] 	at org.gradle.internal.execution.steps.PreCreateOutputParentsStep.execute(PreCreateOutputParentsStep.java:50)
+[        ] 	at org.gradle.internal.execution.steps.PreCreateOutputParentsStep.execute(PreCreateOutputParentsStep.java:28)
+[        ] 	at org.gradle.internal.execution.steps.RemovePreviousOutputsStep.execute(RemovePreviousOutputsStep.java:67)
+[        ] 	at org.gradle.internal.execution.steps.RemovePreviousOutputsStep.execute(RemovePreviousOutputsStep.java:37)
+[        ] 	at org.gradle.internal.execution.steps.BroadcastChangingOutputsStep.execute(BroadcastChangingOutputsStep.java:61)
+[        ] 	at org.gradle.internal.execution.steps.BroadcastChangingOutputsStep.execute(BroadcastChangingOutputsStep.java:26)
+[        ] 	at org.gradle.internal.execution.steps.CaptureOutputsAfterExecutionStep.execute(CaptureOutputsAfterExecutionStep.java:69)
+[        ] 	at org.gradle.internal.execution.steps.CaptureOutputsAfterExecutionStep.execute(CaptureOutputsAfterExecutionStep.java:46)
+[        ] 	at org.gradle.internal.execution.steps.ResolveInputChangesStep.execute(ResolveInputChangesStep.java:40)
+[        ] 	at org.gradle.internal.execution.steps.ResolveInputChangesStep.execute(ResolveInputChangesStep.java:29)
+[        ] 	at org.gradle.internal.execution.steps.BuildCacheStep.executeWithoutCache(BuildCacheStep.java:189)
+[        ] 	at org.gradle.internal.execution.steps.BuildCacheStep.lambda$execute$1(BuildCacheStep.java:75)
+[        ] 	at org.gradle.internal.Either$Right.fold(Either.java:175)
+[        ] 	at org.gradle.internal.execution.caching.CachingState.fold(CachingState.java:62)
+[        ] 	at org.gradle.internal.execution.steps.BuildCacheStep.execute(BuildCacheStep.java:73)
+[        ] 	at org.gradle.internal.execution.steps.BuildCacheStep.execute(BuildCacheStep.java:48)
+[        ] 	at org.gradle.internal.execution.steps.StoreExecutionStateStep.execute(StoreExecutionStateStep.java:46)
+[        ] 	at org.gradle.internal.execution.steps.StoreExecutionStateStep.execute(StoreExecutionStateStep.java:35)
+[        ] 	at org.gradle.internal.execution.steps.SkipUpToDateStep.executeBecause(SkipUpToDateStep.java:75)
+[        ] 	at org.gradle.internal.execution.steps.SkipUpToDateStep.lambda$execute$2(SkipUpToDateStep.java:53)
+[        ] 	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+[        ] 	at org.gradle.internal.execution.steps.SkipUpToDateStep.execute(SkipUpToDateStep.java:53)
+[        ] 	at org.gradle.internal.execution.steps.SkipUpToDateStep.execute(SkipUpToDateStep.java:35)
+[        ] 	at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsFinishedStep.execute(MarkSnapshottingInputsFinishedStep.java:37)
+[        ] 	at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsFinishedStep.execute(MarkSnapshottingInputsFinishedStep.java:27)
+[        ] 	at org.gradle.internal.execution.steps.ResolveIncrementalCachingStateStep.executeDelegate(ResolveIncrementalCachingStateStep.java:49)
+[        ] 	at org.gradle.internal.execution.steps.ResolveIncrementalCachingStateStep.executeDelegate(ResolveIncrementalCachingStateStep.java:27)
+[        ] 	at org.gradle.internal.execution.steps.AbstractResolveCachingStateStep.execute(AbstractResolveCachingStateStep.java:71)
+[        ] 	at org.gradle.internal.execution.steps.AbstractResolveCachingStateStep.execute(AbstractResolveCachingStateStep.java:39)
+[        ] 	at org.gradle.internal.execution.steps.ResolveChangesStep.execute(ResolveChangesStep.java:65)
+[        ] 	at org.gradle.internal.execution.steps.ResolveChangesStep.execute(ResolveChangesStep.java:36)
+[        ] 	at org.gradle.internal.execution.steps.ValidateStep.execute(ValidateStep.java:107)
+[        ] 	at org.gradle.internal.execution.steps.ValidateStep.execute(ValidateStep.java:56)
+[        ] 	at org.gradle.internal.execution.steps.AbstractCaptureStateBeforeExecutionStep.execute(AbstractCaptureStateBeforeExecutionStep.java:64)
+[        ] 	at org.gradle.internal.execution.steps.AbstractCaptureStateBeforeExecutionStep.execute(AbstractCaptureStateBeforeExecutionStep.java:43)
+[        ] 	at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.executeWithNonEmptySources(AbstractSkipEmptyWorkStep.java:125)
+[        ] 	at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.execute(AbstractSkipEmptyWorkStep.java:56)
+[        ] 	at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.execute(AbstractSkipEmptyWorkStep.java:36)
+[        ] 	at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsStartedStep.execute(MarkSnapshottingInputsStartedStep.java:38)
+[        ] 	at org.gradle.internal.execution.steps.LoadPreviousExecutionStateStep.execute(LoadPreviousExecutionStateStep.java:36)
+[        ] 	at org.gradle.internal.execution.steps.LoadPreviousExecutionStateStep.execute(LoadPreviousExecutionStateStep.java:23)
+[        ] 	at org.gradle.internal.execution.steps.HandleStaleOutputsStep.execute(HandleStaleOutputsStep.java:75)
+[        ] 	at org.gradle.internal.execution.steps.HandleStaleOutputsStep.execute(HandleStaleOutputsStep.java:41)
+[        ] 	at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.lambda$execute$0(AssignMutableWorkspaceStep.java:35)
+[        ] 	at org.gradle.api.internal.tasks.execution.TaskExecution$4.withWorkspace(TaskExecution.java:289)
+[        ] 	at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.execute(AssignMutableWorkspaceStep.java:31)
+[        ] 	at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.execute(AssignMutableWorkspaceStep.java:22)
+[        ] 	at org.gradle.internal.execution.steps.ChoosePipelineStep.execute(ChoosePipelineStep.java:40)
+[        ] 	at org.gradle.internal.execution.steps.ChoosePipelineStep.execute(ChoosePipelineStep.java:23)
+[        ] 	at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.lambda$execute$2(ExecuteWorkBuildOperationFiringStep.java:67)
+[        ] 	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+[        ] 	at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.execute(ExecuteWorkBuildOperationFiringStep.java:67)
+[        ] 	at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.execute(ExecuteWorkBuildOperationFiringStep.java:39)
+[        ] 	at org.gradle.internal.execution.steps.IdentityCacheStep.execute(IdentityCacheStep.java:46)
+[        ] 	at org.gradle.internal.execution.steps.IdentityCacheStep.execute(IdentityCacheStep.java:34)
+[        ] 	at org.gradle.internal.execution.steps.IdentifyStep.execute(IdentifyStep.java:48)
+[        ] 	at org.gradle.internal.execution.steps.IdentifyStep.execute(IdentifyStep.java:35)
+[        ] 	at org.gradle.internal.execution.impl.DefaultExecutionEngine$1.execute(DefaultExecutionEngine.java:64)
+[        ] 	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeIfValid(ExecuteActionsTaskExecuter.java:127)
+[        ] 	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.execute(ExecuteActionsTaskExecuter.java:116)
+[        ] 	at org.gradle.api.internal.tasks.execution.ProblemsTaskPathTrackingTaskExecuter.execute(ProblemsTaskPathTrackingTaskExecuter.java:41)
+[        ] 	at org.gradle.api.internal.tasks.execution.FinalizePropertiesTaskExecuter.execute(FinalizePropertiesTaskExecuter.java:46)
+[        ] 	at org.gradle.api.internal.tasks.execution.ResolveTaskExecutionModeExecuter.execute(ResolveTaskExecutionModeExecuter.java:51)
+[        ] 	at org.gradle.api.internal.tasks.execution.SkipTaskWithNoActionsExecuter.execute(SkipTaskWithNoActionsExecuter.java:57)
+[        ] 	at org.gradle.api.internal.tasks.execution.SkipOnlyIfTaskExecuter.execute(SkipOnlyIfTaskExecuter.java:74)
+[        ] 	at org.gradle.api.internal.tasks.execution.CatchExceptionTaskExecuter.execute(CatchExceptionTaskExecuter.java:36)
+[        ] 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.executeTask(EventFiringTaskExecuter.java:77)
+[        ] 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:55)
+[        ] 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:52)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:210)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:205)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:67)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:60)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:167)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:60)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:54)
+[        ] 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter.execute(EventFiringTaskExecuter.java:52)
+[        ] 	at org.gradle.execution.plan.LocalTaskNodeExecutor.execute(LocalTaskNodeExecutor.java:42)
+[        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:331)
+[        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:318)
+[        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.lambda$execute$0(DefaultTaskExecutionGraph.java:314)
+[        ] 	at org.gradle.internal.operations.CurrentBuildOperationRef.with(CurrentBuildOperationRef.java:85)
+[        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:314)
+[        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:303)
+[        ] 	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.execute(DefaultPlanExecutor.java:459)
+[        ] 	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.run(DefaultPlanExecutor.java:376)
+[        ] 	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+[        ] 	at org.gradle.internal.concurrent.AbstractManagedExecutor$1.run(AbstractManagedExecutor.java:48)
+[        ] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[        ] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[        ] 	at java.base/java.lang.Thread.run(Thread.java:840)
+[        ] Caused by: com.android.builder.internal.aapt.v2.Aapt2Exception: Android resource linking failed
+[        ] ERROR: D:\Agua Potable\AppAsistencia\build\app\intermediates\packaged_manifests\debug\AndroidManifest.xml:53: AAPT: error: resource mipmap/ic_launcher (aka com.example.asistencia_agua_potable:mipmap/ic_launcher) not found.
+[        ] ERROR: D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:29:9-47:20: AAPT: error: resource style/LaunchTheme (aka com.example.asistencia_agua_potable:style/LaunchTheme) not found.
+[        ] ERROR: D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:39:13-41:57: AAPT: error: resource style/NormalTheme (aka com.example.asistencia_agua_potable:style/NormalTheme) not found.
+[        ] ERROR: D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:54:9-56:54: AAPT: error: resource mipmap/ic_launcher (aka com.example.asistencia_agua_potable:mipmap/ic_launcher) not found.
+[        ] ERROR: D:\Agua Potable\AppAsistencia\android\app\src\main\AndroidManifest.xml:58:9-60:49: AAPT: error: resource color/primary (aka com.example.asistencia_agua_potable:color/primary) not found.
+[        ] 	at com.android.builder.internal.aapt.v2.Aapt2Exception$Companion.create(Aapt2Exception.kt:45)
+[        ] 	at com.android.builder.internal.aapt.v2.Aapt2Exception$Companion.create$default(Aapt2Exception.kt:33)
+[        ] 	at com.android.build.gradle.internal.res.Aapt2ErrorUtils.rewriteException(Aapt2ErrorUtils.kt:262)
+[        ] 	at com.android.build.gradle.internal.res.Aapt2ErrorUtils.rewriteLinkException(Aapt2ErrorUtils.kt:133)
+[        ] 	at com.android.build.gradle.internal.res.Aapt2ProcessResourcesRunnableKt.processResources(Aapt2ProcessResourcesRunnable.kt:76)
+[        ] 	at com.android.build.gradle.internal.res.LinkApplicationAndroidResourcesTask$Companion.invokeAaptForSplit(LinkApplicationAndroidResourcesTask.kt:940)
+[        ] 	at com.android.build.gradle.internal.res.LinkApplicationAndroidResourcesTask$Companion.access$invokeAaptForSplit(LinkApplicationAndroidResourcesTask.kt:795)
+[        ] 	at com.android.build.gradle.internal.res.LinkApplicationAndroidResourcesTask$TaskAction.run(LinkApplicationAndroidResourcesTask.kt:431)
+[        ] 	at com.android.build.gradle.internal.profile.ProfileAwareWorkAction.execute(ProfileAwareWorkAction.kt:74)
+[        ] 	at org.gradle.workers.internal.DefaultWorkerServer.execute(DefaultWorkerServer.java:63)
+[        ] 	at org.gradle.workers.internal.NoIsolationWorkerFactory$1$1.create(NoIsolationWorkerFactory.java:66)
+[        ] 	at org.gradle.workers.internal.NoIsolationWorkerFactory$1$1.create(NoIsolationWorkerFactory.java:62)
+[        ] 	at org.gradle.internal.classloader.ClassLoaderUtils.executeInClassloader(ClassLoaderUtils.java:100)
+[        ] 	at org.gradle.workers.internal.NoIsolationWorkerFactory$1.lambda$execute$0(NoIsolationWorkerFactory.java:62)
+[        ] 	at org.gradle.workers.internal.AbstractWorker$1.call(AbstractWorker.java:44)
+[        ] 	at org.gradle.workers.internal.AbstractWorker$1.call(AbstractWorker.java:41)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:210)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:205)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:67)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:60)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:167)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:60)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:54)
+[        ] 	at org.gradle.workers.internal.AbstractWorker.executeWrappedInBuildOperation(AbstractWorker.java:41)
+[        ] 	at org.gradle.workers.internal.NoIsolationWorkerFactory$1.execute(NoIsolationWorkerFactory.java:59)
+[        ] 	at org.gradle.workers.internal.DefaultWorkerExecutor.lambda$submitWork$0(DefaultWorkerExecutor.java:174)
+[        ] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+[        ] 	at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner.runExecution(DefaultConditionalExecutionQueue.java:194)
+[        ] 	at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner.access$700(DefaultConditionalExecutionQueue.java:127)
+[        ] 	at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner$1.run(DefaultConditionalExecutionQueue.java:169)
+[        ] 	at org.gradle.internal.Factories$1.create(Factories.java:31)
+[        ] 	at org.gradle.internal.work.DefaultWorkerLeaseService.withLocks(DefaultWorkerLeaseService.java:263)
+[        ] 	at org.gradle.internal.work.DefaultWorkerLeaseService.runAsWorkerThread(DefaultWorkerLeaseService.java:127)
+[        ] 	at org.gradle.internal.work.DefaultWorkerLeaseService.runAsWorkerThread(DefaultWorkerLeaseService.java:132)
+[        ] 	at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner.runBatch(DefaultConditionalExecutionQueue.java:164)
+[        ] 	at org.gradle.internal.work.DefaultConditionalExecutionQueue$ExecutionRunner.run(DefaultConditionalExecutionQueue.java:133)
+[        ] 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+[        ] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+[        ] 	... 5 more
+[        ] BUILD FAILED in 36s
+[        ] Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+[        ] You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+[        ] For more on this, please refer to https://docs.gradle.org/8.14/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+[        ] 43 actionable tasks: 41 executed, 2 up-to-date
+[ +170 ms] Watched directory hierarchies: [C:\Flutter\flutter\packages\flutter_tools\gradle, D:\Agua Potable\AppAsistencia\android]
+[+1327 ms] Running Gradle task 'assembleDebug'... (completed in 37,9s)
+[ +393 ms] "flutter apk" took 39.437ms.
+[ +189 ms] Gradle task assembleDebug failed with exit code 1
+[   +1 ms] 
+           #0      throwToolExit (package:flutter_tools/src/base/common.dart:34:3)
+           #1      AndroidGradleBuilder.buildGradleApp (package:flutter_tools/src/android/gradle.dart:592:7)
+           <asynchronous suspension>
+           #2      AndroidGradleBuilder.buildApk (package:flutter_tools/src/android/gradle.dart:234:5)
+           <asynchronous suspension>
+           #3      BuildApkCommand.runCommand (package:flutter_tools/src/commands/build_apk.dart:131:5)
+           <asynchronous suspension>
+           #4      FlutterCommand.run.<anonymous closure> (package:flutter_tools/src/runner/flutter_command.dart:1590:27)
+           <asynchronous suspension>
+           #5      AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:154:19)
+           <asynchronous suspension>
+           #6      CommandRunner.runCommand (package:args/command_runner.dart:212:13)
+           <asynchronous suspension>
+           #7      FlutterCommandRunner.runCommand.<anonymous closure> (package:flutter_tools/src/runner/flutter_command_runner.dart:496:9)
+           <asynchronous suspension>
+           #8      AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:154:19)
+           <asynchronous suspension>
+           #9      FlutterCommandRunner.runCommand (package:flutter_tools/src/runner/flutter_command_runner.dart:431:5)
+           <asynchronous suspension>
+           #10     FlutterCommandRunner.run.<anonymous closure> (package:flutter_tools/src/runner/flutter_command_runner.dart:307:33)
+           <asynchronous suspension>
+           #11     run.<anonymous closure>.<anonymous closure> (package:flutter_tools/runner.dart:104:11)
+           <asynchronous suspension>
+           #12     AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:154:19)
+           <asynchronous suspension>
+           #13     main (package:flutter_tools/executable.dart:103:3)
+           <asynchronous suspension>
+
+
+[        ] Running 1 shutdown hook
+[   +3 ms] Shutdown hooks complete
+[ +262 ms] exiting with code 1
